@@ -7,7 +7,7 @@
 
         static Euro()
         {
-            cotzRespectoDolar = 1 / 1.08;
+            cotzRespectoDolar = (double)1 / 1.123;
         }
         public Euro(double cantidad)
         {

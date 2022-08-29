@@ -13,7 +13,7 @@ namespace Sobrecarga
 
         static Peso()
         {
-            cotzRespectoDolar = 1 / 66;
+            cotzRespectoDolar = (double)1 / 43.47;
         }
         public Peso(double cantidad)
         {

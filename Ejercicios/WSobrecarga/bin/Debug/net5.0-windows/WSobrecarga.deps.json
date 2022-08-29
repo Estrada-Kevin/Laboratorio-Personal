@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "WSobrecarga/1.0.0": {
+        "dependencies": {
+          "Sobrecarga": "1.0.0"
+        },
         "runtime": {
           "WSobrecarga.dll": {}
+        }
+      },
+      "Sobrecarga/1.0.0": {
+        "runtime": {
+          "Sobrecarga.dll": {}
         }
       }
     }
   },
   "libraries": {
     "WSobrecarga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sobrecarga/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

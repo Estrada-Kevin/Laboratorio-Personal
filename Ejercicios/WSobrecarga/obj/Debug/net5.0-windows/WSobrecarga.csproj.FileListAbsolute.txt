@@ -16,3 +16,6 @@ C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\WSobrecarga\obj\Debu
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\WSobrecarga\obj\Debug\net5.0-windows\WSobrecarga.pdb
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\WSobrecarga\obj\Debug\net5.0-windows\WSobrecarga.genruntimeconfig.cache
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\WSobrecarga\obj\Debug\net5.0-windows\ref\WSobrecarga.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\WSobrecarga\bin\Debug\net5.0-windows\Sobrecarga.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\WSobrecarga\bin\Debug\net5.0-windows\Sobrecarga.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\WSobrecarga\obj\Debug\net5.0-windows\WSobrecarga.csproj.CopyComplete

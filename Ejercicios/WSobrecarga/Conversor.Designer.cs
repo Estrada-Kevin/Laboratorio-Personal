@@ -37,6 +37,7 @@
             this.btn_ConvertDolar = new System.Windows.Forms.Button();
             this.btn_ConvertPeso = new System.Windows.Forms.Button();
             this.btn_LockCotizacion = new System.Windows.Forms.Button();
+            this.locker = new System.Windows.Forms.ImageList(this.components);
             this.lbl_Cotizacion = new System.Windows.Forms.Label();
             this.txt_Euro = new System.Windows.Forms.TextBox();
             this.txt_Dolar = new System.Windows.Forms.TextBox();
@@ -56,7 +57,6 @@
             this.lbl_Euro2 = new System.Windows.Forms.Label();
             this.lbl_Dolar2 = new System.Windows.Forms.Label();
             this.lbl_Peso2 = new System.Windows.Forms.Label();
-            this.locker = new System.Windows.Forms.ImageList(this.components);
             this.SuspendLayout();
             // 
             // lbl_Euro1
@@ -97,6 +97,7 @@
             this.btn_ConvertEuro.TabIndex = 10;
             this.btn_ConvertEuro.Text = "->";
             this.btn_ConvertEuro.UseVisualStyleBackColor = true;
+            this.btn_ConvertEuro.Click += new System.EventHandler(this.btn_ConvertEuro_Click);
             // 
             // btn_ConvertDolar
             // 
@@ -106,6 +107,7 @@
             this.btn_ConvertDolar.TabIndex = 16;
             this.btn_ConvertDolar.Text = "->";
             this.btn_ConvertDolar.UseVisualStyleBackColor = true;
+            this.btn_ConvertDolar.Click += new System.EventHandler(this.btn_ConvertDolar_Click);
             // 
             // btn_ConvertPeso
             // 
@@ -115,18 +117,28 @@
             this.btn_ConvertPeso.TabIndex = 22;
             this.btn_ConvertPeso.Text = "->";
             this.btn_ConvertPeso.UseVisualStyleBackColor = true;
+            this.btn_ConvertPeso.Click += new System.EventHandler(this.btn_ConvertPeso_Click);
             // 
             // btn_LockCotizacion
             // 
             this.btn_LockCotizacion.AutoSize = true;
-            this.btn_LockCotizacion.ImageIndex = 1;
+            this.btn_LockCotizacion.ImageIndex = 0;
             this.btn_LockCotizacion.ImageList = this.locker;
             this.btn_LockCotizacion.Location = new System.Drawing.Point(179, 23);
             this.btn_LockCotizacion.Name = "btn_LockCotizacion";
-            this.btn_LockCotizacion.Size = new System.Drawing.Size(75, 25);
+            this.btn_LockCotizacion.Size = new System.Drawing.Size(75, 31);
             this.btn_LockCotizacion.TabIndex = 1;
             this.btn_LockCotizacion.Text = "\r\n";
             this.btn_LockCotizacion.UseVisualStyleBackColor = true;
+            this.btn_LockCotizacion.Click += new System.EventHandler(this.btn_LockCotizacion_Click);
+            // 
+            // locker
+            // 
+            this.locker.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
+            this.locker.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("locker.ImageStream")));
+            this.locker.TransparentColor = System.Drawing.Color.Transparent;
+            this.locker.Images.SetKeyName(0, "lock.jpg");
+            this.locker.Images.SetKeyName(1, "unlock.png");
             // 
             // lbl_Cotizacion
             // 
@@ -163,6 +175,7 @@
             // 
             this.txt_CotizacionEuro.Location = new System.Drawing.Point(261, 22);
             this.txt_CotizacionEuro.Name = "txt_CotizacionEuro";
+            this.txt_CotizacionEuro.ReadOnly = true;
             this.txt_CotizacionEuro.Size = new System.Drawing.Size(100, 23);
             this.txt_CotizacionEuro.TabIndex = 2;
             // 
@@ -170,6 +183,7 @@
             // 
             this.txt_CotizacionDolar.Location = new System.Drawing.Point(367, 22);
             this.txt_CotizacionDolar.Name = "txt_CotizacionDolar";
+            this.txt_CotizacionDolar.ReadOnly = true;
             this.txt_CotizacionDolar.Size = new System.Drawing.Size(100, 23);
             this.txt_CotizacionDolar.TabIndex = 3;
             // 
@@ -177,6 +191,7 @@
             // 
             this.txt_CotizacionPeso.Location = new System.Drawing.Point(473, 23);
             this.txt_CotizacionPeso.Name = "txt_CotizacionPeso";
+            this.txt_CotizacionPeso.ReadOnly = true;
             this.txt_CotizacionPeso.Size = new System.Drawing.Size(100, 23);
             this.txt_CotizacionPeso.TabIndex = 4;
             // 
@@ -184,6 +199,7 @@
             // 
             this.txt_EuroAEuro.Location = new System.Drawing.Point(261, 76);
             this.txt_EuroAEuro.Name = "txt_EuroAEuro";
+            this.txt_EuroAEuro.ReadOnly = true;
             this.txt_EuroAEuro.Size = new System.Drawing.Size(100, 23);
             this.txt_EuroAEuro.TabIndex = 11;
             // 
@@ -191,6 +207,7 @@
             // 
             this.txt_EuroADolar.Location = new System.Drawing.Point(367, 75);
             this.txt_EuroADolar.Name = "txt_EuroADolar";
+            this.txt_EuroADolar.ReadOnly = true;
             this.txt_EuroADolar.Size = new System.Drawing.Size(100, 23);
             this.txt_EuroADolar.TabIndex = 12;
             // 
@@ -198,6 +215,7 @@
             // 
             this.txt_EuroAPeso.Location = new System.Drawing.Point(473, 76);
             this.txt_EuroAPeso.Name = "txt_EuroAPeso";
+            this.txt_EuroAPeso.ReadOnly = true;
             this.txt_EuroAPeso.Size = new System.Drawing.Size(100, 23);
             this.txt_EuroAPeso.TabIndex = 13;
             // 
@@ -205,6 +223,7 @@
             // 
             this.txt_DolarAEuro.Location = new System.Drawing.Point(261, 120);
             this.txt_DolarAEuro.Name = "txt_DolarAEuro";
+            this.txt_DolarAEuro.ReadOnly = true;
             this.txt_DolarAEuro.Size = new System.Drawing.Size(100, 23);
             this.txt_DolarAEuro.TabIndex = 17;
             // 
@@ -212,6 +231,7 @@
             // 
             this.txt_DolarADolar.Location = new System.Drawing.Point(367, 120);
             this.txt_DolarADolar.Name = "txt_DolarADolar";
+            this.txt_DolarADolar.ReadOnly = true;
             this.txt_DolarADolar.Size = new System.Drawing.Size(100, 23);
             this.txt_DolarADolar.TabIndex = 18;
             // 
@@ -219,6 +239,7 @@
             // 
             this.txt_DolarAPeso.Location = new System.Drawing.Point(473, 120);
             this.txt_DolarAPeso.Name = "txt_DolarAPeso";
+            this.txt_DolarAPeso.ReadOnly = true;
             this.txt_DolarAPeso.Size = new System.Drawing.Size(100, 23);
             this.txt_DolarAPeso.TabIndex = 19;
             // 
@@ -226,6 +247,7 @@
             // 
             this.txt_PesoAEuro.Location = new System.Drawing.Point(261, 165);
             this.txt_PesoAEuro.Name = "txt_PesoAEuro";
+            this.txt_PesoAEuro.ReadOnly = true;
             this.txt_PesoAEuro.Size = new System.Drawing.Size(100, 23);
             this.txt_PesoAEuro.TabIndex = 23;
             // 
@@ -233,6 +255,7 @@
             // 
             this.txt_PesoADolar.Location = new System.Drawing.Point(367, 165);
             this.txt_PesoADolar.Name = "txt_PesoADolar";
+            this.txt_PesoADolar.ReadOnly = true;
             this.txt_PesoADolar.Size = new System.Drawing.Size(100, 23);
             this.txt_PesoADolar.TabIndex = 24;
             // 
@@ -240,6 +263,7 @@
             // 
             this.txt_PesoAPeso.Location = new System.Drawing.Point(473, 166);
             this.txt_PesoAPeso.Name = "txt_PesoAPeso";
+            this.txt_PesoAPeso.ReadOnly = true;
             this.txt_PesoAPeso.Size = new System.Drawing.Size(100, 23);
             this.txt_PesoAPeso.TabIndex = 25;
             // 
@@ -272,14 +296,6 @@
             this.lbl_Peso2.Size = new System.Drawing.Size(41, 19);
             this.lbl_Peso2.TabIndex = 7;
             this.lbl_Peso2.Text = "Peso";
-            // 
-            // locker
-            // 
-            this.locker.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
-            this.locker.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("locker.ImageStream")));
-            this.locker.TransparentColor = System.Drawing.Color.Transparent;
-            this.locker.Images.SetKeyName(0, "lock.jpg");
-            this.locker.Images.SetKeyName(1, "unlock.png");
             // 
             // Conversor
             // 
@@ -316,6 +332,7 @@
             this.MinimizeBox = false;
             this.Name = "Conversor";
             this.Text = "Conversor";
+            this.Load += new System.EventHandler(this.Conversor_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
