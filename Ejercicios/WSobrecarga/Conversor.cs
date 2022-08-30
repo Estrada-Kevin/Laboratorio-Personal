@@ -50,17 +50,16 @@ namespace WSobrecarga
                 txt_CotizacionDolar.ReadOnly = true;
                 txt_CotizacionEuro.ReadOnly = true;
                 txt_CotizacionPeso.ReadOnly = true;
-
             }
             else if(indice == 1)
             {
                 txt_CotizacionDolar.ReadOnly = false;
                 txt_CotizacionEuro.ReadOnly = false;
                 txt_CotizacionPeso.ReadOnly = false;
-
+                txt_CotizacionEuro.Focus();
             }
 
-
+            
         }
 
         private void btn_ConvertEuro_Click(object sender, EventArgs e)
