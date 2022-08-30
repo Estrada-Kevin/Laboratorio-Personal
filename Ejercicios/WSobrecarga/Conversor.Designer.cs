@@ -178,6 +178,7 @@
             this.txt_CotizacionEuro.ReadOnly = true;
             this.txt_CotizacionEuro.Size = new System.Drawing.Size(100, 23);
             this.txt_CotizacionEuro.TabIndex = 2;
+            this.txt_CotizacionEuro.Leave += new System.EventHandler(this.txt_CotizacionEuro_Leave);
             // 
             // txt_CotizacionDolar
             // 
@@ -186,6 +187,7 @@
             this.txt_CotizacionDolar.ReadOnly = true;
             this.txt_CotizacionDolar.Size = new System.Drawing.Size(100, 23);
             this.txt_CotizacionDolar.TabIndex = 3;
+            this.txt_CotizacionDolar.Leave += new System.EventHandler(this.txt_CotizacionDolar_Leave);
             // 
             // txt_CotizacionPeso
             // 
@@ -194,6 +196,7 @@
             this.txt_CotizacionPeso.ReadOnly = true;
             this.txt_CotizacionPeso.Size = new System.Drawing.Size(100, 23);
             this.txt_CotizacionPeso.TabIndex = 4;
+            this.txt_CotizacionPeso.Leave += new System.EventHandler(this.txt_CotizacionPeso_Leave);
             // 
             // txt_EuroAEuro
             // 
