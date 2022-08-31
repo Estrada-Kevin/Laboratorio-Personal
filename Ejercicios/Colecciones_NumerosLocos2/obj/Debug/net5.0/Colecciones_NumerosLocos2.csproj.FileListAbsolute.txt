@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\bin\Debug\net5.0\Colecciones_NumerosLocos2.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\bin\Debug\net5.0\Colecciones_NumerosLocos2.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\bin\Debug\net5.0\Colecciones_NumerosLocos2.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\bin\Debug\net5.0\Colecciones_NumerosLocos2.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\bin\Debug\net5.0\Colecciones_NumerosLocos2.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\bin\Debug\net5.0\Colecciones_NumerosLocos2.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\obj\Debug\net5.0\Colecciones_NumerosLocos2.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\obj\Debug\net5.0\Colecciones_NumerosLocos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\obj\Debug\net5.0\Colecciones_NumerosLocos2.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\obj\Debug\net5.0\Colecciones_NumerosLocos2.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\obj\Debug\net5.0\Colecciones_NumerosLocos2.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\obj\Debug\net5.0\Colecciones_NumerosLocos2.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\obj\Debug\net5.0\refint\Colecciones_NumerosLocos2.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\obj\Debug\net5.0\Colecciones_NumerosLocos2.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\obj\Debug\net5.0\Colecciones_NumerosLocos2.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Colecciones_NumerosLocos2\obj\Debug\net5.0\ref\Colecciones_NumerosLocos2.dll
