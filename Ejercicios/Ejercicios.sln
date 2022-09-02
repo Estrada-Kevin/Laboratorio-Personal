@@ -11,11 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSobrecarga", "WSobrecarga\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Colecciones", "Colecciones", "{C3599DC9-88BB-4753-9334-A99C97942933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones_NumerosLocos", "Colecciones_NumerosLocos\Colecciones_NumerosLocos.csproj", "{24455BA6-8B14-40D8-A7ED-676852D0F43A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecciones_NumerosLocos", "Colecciones_NumerosLocos\Colecciones_NumerosLocos.csproj", "{24455BA6-8B14-40D8-A7ED-676852D0F43A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones_NumerosLocos2", "Colecciones_NumerosLocos2\Colecciones_NumerosLocos2.csproj", "{7E25F730-0F02-4781-9014-920696B98076}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecciones_NumerosLocos2", "Colecciones_NumerosLocos2\Colecciones_NumerosLocos2.csproj", "{7E25F730-0F02-4781-9014-920696B98076}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contador de palabras", "Contador de palabras\Contador de palabras.csproj", "{DC38FFA9-8593-4102-93D0-1CCDBBC107FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contador de palabras", "Contador de palabras\Contador de palabras.csproj", "{DC38FFA9-8593-4102-93D0-1CCDBBC107FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estadistica deportiva", "Estadistica deportiva\Estadistica deportiva.csproj", "{084CED4F-6AB0-4FFE-867B-A3D1147659FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +47,14 @@ Global
 		{DC38FFA9-8593-4102-93D0-1CCDBBC107FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC38FFA9-8593-4102-93D0-1CCDBBC107FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC38FFA9-8593-4102-93D0-1CCDBBC107FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084CED4F-6AB0-4FFE-867B-A3D1147659FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084CED4F-6AB0-4FFE-867B-A3D1147659FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084CED4F-6AB0-4FFE-867B-A3D1147659FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084CED4F-6AB0-4FFE-867B-A3D1147659FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +65,8 @@ Global
 		{24455BA6-8B14-40D8-A7ED-676852D0F43A} = {C3599DC9-88BB-4753-9334-A99C97942933}
 		{7E25F730-0F02-4781-9014-920696B98076} = {C3599DC9-88BB-4753-9334-A99C97942933}
 		{DC38FFA9-8593-4102-93D0-1CCDBBC107FD} = {C3599DC9-88BB-4753-9334-A99C97942933}
+		{084CED4F-6AB0-4FFE-867B-A3D1147659FC} = {C3599DC9-88BB-4753-9334-A99C97942933}
+		{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457} = {C3599DC9-88BB-4753-9334-A99C97942933}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}
