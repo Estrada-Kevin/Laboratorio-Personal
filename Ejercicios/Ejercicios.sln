@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contador de palabras", "Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estadistica deportiva", "Estadistica deportiva\Estadistica deportiva.csproj", "{084CED4F-6AB0-4FFE-867B-A3D1147659FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program - estadistica desportiva", "Program\Program - estadistica desportiva.csproj", "{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Competencia Automotores", "Competencia Automotores\Competencia Automotores.csproj", "{1E239D6A-AABA-4194-B33E-2905860777BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E239D6A-AABA-4194-B33E-2905860777BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E239D6A-AABA-4194-B33E-2905860777BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E239D6A-AABA-4194-B33E-2905860777BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E239D6A-AABA-4194-B33E-2905860777BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{DC38FFA9-8593-4102-93D0-1CCDBBC107FD} = {C3599DC9-88BB-4753-9334-A99C97942933}
 		{084CED4F-6AB0-4FFE-867B-A3D1147659FC} = {C3599DC9-88BB-4753-9334-A99C97942933}
 		{52DEC472-16BA-40AB-B4E9-F9AA5CAA8457} = {C3599DC9-88BB-4753-9334-A99C97942933}
+		{1E239D6A-AABA-4194-B33E-2905860777BB} = {C3599DC9-88BB-4753-9334-A99C97942933}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}
