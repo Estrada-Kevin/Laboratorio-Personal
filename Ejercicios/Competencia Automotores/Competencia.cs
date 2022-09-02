@@ -40,32 +40,27 @@ namespace Competencia_Automotores
 
         public static bool operator +(Competencia c, AutoF1 a)
         {
-            if(c.competidores.Count < c.cantidadCompetidores && c!=a)
+            if(c.competidores.Count < c.cantidadCompetidores)
             {
-                c.competidores.Add(a);
+                foreach (AutoF1 item in c.competidores)
+                {
+                    if(item == a)
+                    {
+                        return false;
+                    }    
+                }
+
                 a.SetEnCompetencia(true);
                 a.SetVueltasRestantes(c.cantidadVueltas);
                 Random r = new Random();
                 a.SetCantidadCombustible((short)(r.Next(15, 100)));
+                c.competidores.Add(a);
                 return true;
             }
-            else
-            {
-                return false;
-            }
-            
+
+             return false;            
         }
 
-        public static bool operator -(Competencia c, AutoF1 a)
-        {
-            bool returnAux = false;
-            if(c==a)
-            {
-                c.competidores.Remove(a);
-                returnAux = true;
-            }
-            return returnAux;
-        }
 
         public static bool operator ==(Competencia c, AutoF1 a)
         {

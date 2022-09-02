@@ -28,11 +28,12 @@ namespace Competencia_Automotores
             //Console.WriteLine(formulario.MostrarDatos());
 
             AutoF1 a1 = new AutoF1(1, "escu1");
-            AutoF1 a2 = new AutoF1(2, "escu2");
-            AutoF1 a3 = new AutoF1(3, "escu3");
-            AutoF1 a4 = new AutoF1(4, "escu1");
-            AutoF1 a5 = new AutoF1(5, "escu4");
+            AutoF1 a2 = new AutoF1(4, "escu2");
+            AutoF1 a3 = new AutoF1(5, "escu3");
+            AutoF1 a4 = new AutoF1(1, "escu1");
+            AutoF1 a5 = new AutoF1(2, "escu4");
             AutoF1 a6 = new AutoF1(6, "escu5");
+            AutoF1 a7 = new AutoF1(7, "escu8");
             Competencia competencia = new Competencia(5, 5);
 
 
@@ -43,7 +44,7 @@ namespace Competencia_Automotores
             }
             else
             {
-                Console.WriteLine("NO SE AGREGO");
+                Console.WriteLine("NO SE AGREGO\n");
             }
             if (competencia + a2)
             {
@@ -51,7 +52,7 @@ namespace Competencia_Automotores
             }
             else
             {
-                Console.WriteLine("NO SE AGREGO");
+                Console.WriteLine("NO SE AGREGO\n");
             }
             if (competencia + a3)
             {
@@ -59,7 +60,7 @@ namespace Competencia_Automotores
             }
             else
             {
-                Console.WriteLine("NO SE AGREGO");
+                Console.WriteLine("NO SE AGREGO\n");
             }
             if (competencia + a4)
             {
@@ -67,7 +68,7 @@ namespace Competencia_Automotores
             }
             else
             {
-                Console.WriteLine("NO SE AGREGO");
+                Console.WriteLine("NO SE AGREGO\n");
             }
             if (competencia + a5)
             {
@@ -75,7 +76,7 @@ namespace Competencia_Automotores
             }
             else
             {
-                Console.WriteLine("NO SE AGREGO");
+                Console.WriteLine("NO SE AGREGO\n");
             }
             if(competencia + a6)
             {
@@ -83,7 +84,15 @@ namespace Competencia_Automotores
             }
             else
             {
-                   Console.WriteLine("NO SE AGREGO");
+                   Console.WriteLine("NO SE AGREGO\n");
+            }
+            if (competencia + a7)
+            {
+                Console.WriteLine(a6.MostrarDatos());
+            }
+            else
+            {
+                Console.WriteLine("NO SE AGREGO\n");
             }
 
 

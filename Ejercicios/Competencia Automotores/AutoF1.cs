@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 
 namespace Competencia_Automotores
 {
@@ -63,7 +59,21 @@ namespace Competencia_Automotores
             sb.AppendLine($"Combustible restante: {GetCantidadCombustible()}");
 
             return sb.ToString();
-            
+
+        }
+
+        public static bool operator ==(AutoF1 a, AutoF1 b)
+        {
+            if ((a.escuderia == b.escuderia) && (a.numero == b.numero))
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool operator !=(AutoF1 a, AutoF1 b)
+        {
+            return !(a == b);
         }
     }
 }
