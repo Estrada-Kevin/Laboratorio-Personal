@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\bin\Debug\net5.0\ConsultaIndice.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\bin\Debug\net5.0\ConsultaIndice.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\bin\Debug\net5.0\ConsultaIndice.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\bin\Debug\net5.0\ConsultaIndice.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\bin\Debug\net5.0\ConsultaIndice.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\bin\Debug\net5.0\ConsultaIndice.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\obj\Debug\net5.0\ConsultaIndice.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\obj\Debug\net5.0\ConsultaIndice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\obj\Debug\net5.0\ConsultaIndice.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\obj\Debug\net5.0\ConsultaIndice.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\obj\Debug\net5.0\ConsultaIndice.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\obj\Debug\net5.0\ConsultaIndice.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\obj\Debug\net5.0\refint\ConsultaIndice.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\obj\Debug\net5.0\ConsultaIndice.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\obj\Debug\net5.0\ConsultaIndice.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ConsultaIndice\obj\Debug\net5.0\ref\ConsultaIndice.dll

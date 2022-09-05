@@ -11,14 +11,13 @@ namespace Estadistica_deportiva
         private int dni;
         private string nombre;
         private int partidosJugados;
-        private float promedioGoles;
         private int totalGoles;
 
         private Jugador()
         {
             partidosJugados = 0;
             totalGoles = 0;
-            promedioGoles = 0;
+            
         }
 
         public Jugador(int dni, string nombre):this()
@@ -33,9 +32,31 @@ namespace Estadistica_deportiva
             this.totalGoles=totalGoles;
         }
 
-        public float GetPromedioGoles()
+        public float PromedioGoles
         {
-            return (float)totalGoles/ (float)partidosJugados;
+            get { return (float)totalGoles / (float)partidosJugados; }
+        }
+
+        public int PartidosJugados
+        {
+            get { return partidosJugados; }
+        }
+
+        public int TotalGoles
+        {
+            get { return totalGoles; }
+        }
+
+        public string Nombre
+        {
+            get { return nombre;}
+            set { nombre = value; }
+        }
+
+        public int Dni
+        {
+            get { return dni;}
+            set { dni = value; }
         }
 
         public string MostrarDatos()
@@ -45,7 +66,7 @@ namespace Estadistica_deportiva
             sb.AppendLine($"Dni: {dni}");
             sb.AppendLine($"Total Partidos Jugados: {partidosJugados}");
             sb.AppendLine($"Goles totales: {totalGoles}");
-            sb.AppendLine($"Promedio goles: {GetPromedioGoles()}");
+            sb.AppendLine($"Promedio goles: {this.PromedioGoles}");
 
             return sb.ToString();
         }

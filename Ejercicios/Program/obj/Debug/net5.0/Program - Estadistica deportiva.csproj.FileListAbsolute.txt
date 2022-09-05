@@ -1,0 +1,19 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\bin\Debug\net5.0\Program - Estadistica deportiva.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\bin\Debug\net5.0\Program - Estadistica deportiva.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\bin\Debug\net5.0\Program - Estadistica deportiva.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\bin\Debug\net5.0\Program - Estadistica deportiva.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\bin\Debug\net5.0\Program - Estadistica deportiva.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\bin\Debug\net5.0\Program - Estadistica deportiva.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\bin\Debug\net5.0\Estadistica deportiva.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\bin\Debug\net5.0\Estadistica deportiva.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\Program - Estadistica deportiva.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\Program - Estadistica deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\Program - Estadistica deportiva.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\Program - Estadistica deportiva.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\Program - Estadistica deportiva.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\Program - Estadistica deportiva.csproj.CopyComplete
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\Program - Estadistica deportiva.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\refint\Program - Estadistica deportiva.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\Program - Estadistica deportiva.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\Program - Estadistica deportiva.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Program\obj\Debug\net5.0\ref\Program - Estadistica deportiva.dll
