@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\obj\Debug\net5.0\PuestoDeAtencion.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\obj\Debug\net5.0\PuestoDeAtencion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\obj\Debug\net5.0\PuestoDeAtencion.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\obj\Debug\net5.0\PuestoDeAtencion.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\obj\Debug\net5.0\PuestoDeAtencion.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\bin\Debug\net5.0\PuestoDeAtencion.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\bin\Debug\net5.0\PuestoDeAtencion.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\bin\Debug\net5.0\PuestoDeAtencion.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\bin\Debug\net5.0\PuestoDeAtencion.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\bin\Debug\net5.0\PuestoDeAtencion.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\bin\Debug\net5.0\PuestoDeAtencion.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\obj\Debug\net5.0\PuestoDeAtencion.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\obj\Debug\net5.0\refint\PuestoDeAtencion.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\obj\Debug\net5.0\PuestoDeAtencion.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\obj\Debug\net5.0\PuestoDeAtencion.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\PuestoDeAtencion\obj\Debug\net5.0\ref\PuestoDeAtencion.dll

@@ -6,26 +6,7 @@ namespace Competencia_Automotores
     {
         static void Main(string[] args)
         {
-            //Random random = new Random();
-            //Competencia formulario = new Competencia(10, 5);
-            //AutoF1[] autos = new AutoF1[10];
-
-            //for (int i = 0; i < autos.Length; i++)
-            //{
-            //    autos[i] = new AutoF1((short)i, random.Next(1, 5).ToString());
-            //    if((formulario + autos[i]) == true)
-            //    {
-            //        Console.WriteLine("Se agrego el siguiente auto a la competencia {0}", autos[i].MostrarDatos());
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("No se agrego ya que la competencia esta completa {0}",autos[i].MostrarDatos());
-            //    }
-
-            //}
-            //Console.WriteLine();
-            //Console.WriteLine("<----------------------------------------------------------------->");
-            //Console.WriteLine(formulario.MostrarDatos());
+            
 
             AutoF1 a1 = new AutoF1(1, "escu1");
             AutoF1 a2 = new AutoF1(4, "escu2");

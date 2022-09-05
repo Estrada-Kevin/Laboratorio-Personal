@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "Estadistica deportiva/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Estadistica deportiva.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Estadistica deportiva.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "Estadistica deportiva/1.0.0": {
-      "type": "project",
-      "path": "../Estadistica deportiva/Estadistica deportiva.csproj",
-      "msbuildProject": "../Estadistica deportiva/Estadistica deportiva.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "Estadistica deportiva >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\brake\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Program\\Program - Estadistica deportiva.csproj",
-      "projectName": "Program - Estadistica deportiva",
-      "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Program\\Program - Estadistica deportiva.csproj",
+      "projectUniqueName": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\PuestoDeAtencion\\PuestoDeAtencion.csproj",
+      "projectName": "PuestoDeAtencion",
+      "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\PuestoDeAtencion\\PuestoDeAtencion.csproj",
       "packagesPath": "C:\\Users\\brake\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Program\\obj\\",
+      "outputPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\PuestoDeAtencion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brake\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Estadistica deportiva\\Estadistica deportiva.csproj": {
-              "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Estadistica deportiva\\Estadistica deportiva.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
