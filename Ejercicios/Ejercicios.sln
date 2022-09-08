@@ -31,11 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultaIndice", "ConsultaI
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Herencia", "Herencia", "{FC11CA98-F196-43C6-BB30-7DE60D9C6925}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehiculos", "Vehiculos\Vehiculos.csproj", "{3D8EFFAE-2AB6-4E6A-AA4B-B1AE9A4DCABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehiculos", "Vehiculos\Vehiculos.csproj", "{3D8EFFAE-2AB6-4E6A-AA4B-B1AE9A4DCABD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estadistica deportiva mejorada", "Estadistica deportiva mejorada\Estadistica deportiva mejorada.csproj", "{D181C32C-D50B-4B12-8CD5-B11DD946621D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estadistica deportiva mejorada", "Estadistica deportiva mejorada\Estadistica deportiva mejorada.csproj", "{D181C32C-D50B-4B12-8CD5-B11DD946621D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Competencia Automotores Mejorado", "Competencia Automotores Mejorado\Competencia Automotores Mejorado.csproj", "{A4C1AD68-F2E9-4E2E-9B26-AD1814324413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Competencia Automotores Mejorado", "Competencia Automotores Mejorado\Competencia Automotores Mejorado.csproj", "{A4C1AD68-F2E9-4E2E-9B26-AD1814324413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centralita", "Centralita\Centralita.csproj", "{87A455E5-F162-43F7-80A7-C2E433825D1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,6 +97,10 @@ Global
 		{A4C1AD68-F2E9-4E2E-9B26-AD1814324413}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4C1AD68-F2E9-4E2E-9B26-AD1814324413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4C1AD68-F2E9-4E2E-9B26-AD1814324413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A455E5-F162-43F7-80A7-C2E433825D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A455E5-F162-43F7-80A7-C2E433825D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A455E5-F162-43F7-80A7-C2E433825D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A455E5-F162-43F7-80A7-C2E433825D1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -113,6 +119,7 @@ Global
 		{3D8EFFAE-2AB6-4E6A-AA4B-B1AE9A4DCABD} = {FC11CA98-F196-43C6-BB30-7DE60D9C6925}
 		{D181C32C-D50B-4B12-8CD5-B11DD946621D} = {FC11CA98-F196-43C6-BB30-7DE60D9C6925}
 		{A4C1AD68-F2E9-4E2E-9B26-AD1814324413} = {FC11CA98-F196-43C6-BB30-7DE60D9C6925}
+		{87A455E5-F162-43F7-80A7-C2E433825D1C} = {FC11CA98-F196-43C6-BB30-7DE60D9C6925}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}
