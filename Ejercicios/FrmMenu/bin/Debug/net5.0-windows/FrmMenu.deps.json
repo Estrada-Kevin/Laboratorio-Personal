@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FrmMenu/1.0.0": {
+        "runtime": {
+          "FrmMenu.dll": {}
+        }
+      },
+      "Centralita II/1.0.0": {
+        "runtime": {
+          "Centralita II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrmMenu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Centralita II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

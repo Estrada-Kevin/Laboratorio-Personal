@@ -1,0 +1,27 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.FrmLlamador.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.FrmMenu.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.FrmMostrar.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.csproj.GenerateResource.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.csproj.CopyComplete
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\refint\FrmMenu.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\ref\FrmMenu.dll
