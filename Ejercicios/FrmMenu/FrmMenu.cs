@@ -24,7 +24,29 @@ namespace FrmMenu
         {
             FrmLlamador frmLlamador = new FrmLlamador(centralita);
             frmLlamador.Show();
+        }
 
+        private void btn_FacturacionTotal_Click(object sender, EventArgs e)
+        {
+            FrmMostrar frmMostrar = new FrmMostrar(centralita);
+            frmMostrar.Show();
+        }
+
+        private void btn_FacturacionLocal_Click(object sender, EventArgs e)
+        {
+            FrmMostrar frmMostrar = new FrmMostrar(centralita);
+            frmMostrar.Show();
+        }
+
+        private void btn_FacturacionProvincial_Click(object sender, EventArgs e)
+        {
+            FrmMostrar frmMostrar = new FrmMostrar(centralita);
+            frmMostrar.Show();
+        }
+
+        private void btn_Salir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

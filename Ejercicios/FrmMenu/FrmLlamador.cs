@@ -133,11 +133,14 @@ namespace FrmMenu
             if (txt_Destino.Text.StartsWith("#"))
             {
                 l1 = new Provincial(txt_Origen.Text, franjas, r.Next(1,50), txt_Destino.Text);
+               _= centralita + l1;
 
             }
             else
             {
-                l1 = new Local(txt_Origen.Text, r.Next(), txt_Destino.Text, CostoRandom());
+                l1 = new Local(txt_Origen.Text, r.Next(1,50), txt_Destino.Text, CostoRandom());
+                _= centralita + l1;
+                
             }
         }
 
@@ -167,11 +170,9 @@ namespace FrmMenu
             double range = max - min;
             float f = 0;
 
-            double sample = rand.NextDouble();
-            double scaled = (sample * range) + min;
-            f = (float)Math.Round(scaled, 2);
-
-
+            double muestra = rand.NextDouble();
+            double escalado = (muestra * range) + min;
+            f = (float)(Math.Round(escalado, 2));
 
             return f;
         }
