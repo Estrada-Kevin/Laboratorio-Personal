@@ -33,9 +33,9 @@
             // 
             // rtxt_Mostrador
             // 
-            this.rtxt_Mostrador.Location = new System.Drawing.Point(1, 1);
+            this.rtxt_Mostrador.Location = new System.Drawing.Point(-1, -1);
             this.rtxt_Mostrador.Name = "rtxt_Mostrador";
-            this.rtxt_Mostrador.Size = new System.Drawing.Size(600, 376);
+            this.rtxt_Mostrador.Size = new System.Drawing.Size(602, 378);
             this.rtxt_Mostrador.TabIndex = 0;
             this.rtxt_Mostrador.Text = "";
             // 

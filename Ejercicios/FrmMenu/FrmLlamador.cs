@@ -108,6 +108,7 @@ namespace FrmMenu
         private void btn_Limpiar_Click(object sender, EventArgs e)
         {
             txt_Destino.Clear();
+            txt_Origen.Clear();
             cmb_Franja.Enabled = false;
         }
 
@@ -126,40 +127,30 @@ namespace FrmMenu
 
         private void btn_Llamar_Click(object sender, EventArgs e)
         {
-            Llamada l1;
             Random r = new Random();
             Franja franjas;
             Enum.TryParse<Franja>(cmb_Franja.SelectedValue.ToString(), out franjas);
-            if (txt_Destino.Text.StartsWith("#"))
-            {
-                l1 = new Provincial(txt_Origen.Text, franjas, r.Next(1,50), txt_Destino.Text);
-               _= centralita + l1;
+            Llamada l1;
 
-            }
-            else
+            if (txt_Destino.Text.StartsWith("#") && txt_Origen.Text != "")
             {
-                l1 = new Local(txt_Origen.Text, r.Next(1,50), txt_Destino.Text, CostoRandom());
-                _= centralita + l1;
-                
+                l1 = new Provincial(txt_Origen.Text, franjas, r.Next(1, 50), txt_Destino.Text);
+                _ = centralita + l1;
             }
+            
+            
+            if (txt_Destino.Text != "" && txt_Origen.Text != "")
+            {
+                l1 = new Local(txt_Origen.Text, r.Next(1, 50), txt_Destino.Text, CostoRandom());
+                _ = centralita + l1;
+            }
+
+            
         }
 
         private void btn_Salir_Click(object sender, EventArgs e)
         {
-            Application.Exit();
-        }
-
-        private void FrmLlamador_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            DialogResult result = MessageBox.Show("¿Seguro de querer salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (result == DialogResult.Yes)
-            {
-                Environment.Exit(0);
-            }
-            else
-            {
-                e.Cancel = true;
-            }
+            this.Close();
         }
 
         public float CostoRandom()

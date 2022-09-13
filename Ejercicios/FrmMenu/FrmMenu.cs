@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Centralita_II;
+using System;
 using System.Windows.Forms;
-using Centralita_II;
 
 namespace FrmMenu
 {
@@ -28,20 +21,61 @@ namespace FrmMenu
 
         private void btn_FacturacionTotal_Click(object sender, EventArgs e)
         {
-            FrmMostrar frmMostrar = new FrmMostrar(centralita);
-            frmMostrar.Show();
+            if(centralita.Llamadas.Count <= 0)
+            {
+                MessageBox.Show("No hay llamadas");
+            }
+            else
+            {
+                FrmMostrar frmMostrar = new FrmMostrar(centralita);
+                frmMostrar.Show();
+            }
         }
 
         private void btn_FacturacionLocal_Click(object sender, EventArgs e)
         {
-            FrmMostrar frmMostrar = new FrmMostrar(centralita);
-            frmMostrar.Show();
+
+            Centralita centralitaAuxiliar = new Centralita();
+            if (centralita.Llamadas.Count <= 0)
+            {
+                MessageBox.Show("No hay llamadas locales");
+            }
+            else
+            {
+                foreach (Llamada item in centralita.Llamadas)
+                {
+                    if (item is Local listaLocal)
+                    {
+                        centralitaAuxiliar += item;
+                    }
+                }
+                FrmMostrar frmMostrar = new FrmMostrar(centralitaAuxiliar);
+                frmMostrar.Show();
+            }
+
+
         }
 
         private void btn_FacturacionProvincial_Click(object sender, EventArgs e)
         {
-            FrmMostrar frmMostrar = new FrmMostrar(centralita);
-            frmMostrar.Show();
+
+            Centralita centralitaAuxiliar = new Centralita();
+            if(centralita.Llamadas.Count <= 0)
+            {
+                MessageBox.Show("No hay llamadas provinciales");
+            }
+            else
+            {
+                foreach (Llamada item in centralita.Llamadas)
+                {
+                    if (item is Provincial listaProvincial)
+                    {
+                        centralitaAuxiliar += item;
+                    }
+                }
+                FrmMostrar frmMostrar = new FrmMostrar(centralitaAuxiliar);
+                frmMostrar.Show();
+            }
         }
 
         private void btn_Salir_Click(object sender, EventArgs e)

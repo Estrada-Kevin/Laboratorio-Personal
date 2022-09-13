@@ -44,11 +44,10 @@ namespace Centralita_II
                     }
                 }
             }
-            else if (tipo == TipoLlamada.Provincial || tipo == TipoLlamada.Todas)
+            if (tipo == TipoLlamada.Provincial || tipo == TipoLlamada.Todas)
             {
                 foreach (Llamada item in listaDeLlamadas)
                 {
-
                     if (item is Provincial listaPronvincial)
                     {
                         auxiliar += listaPronvincial.CostoLlamada;
@@ -72,7 +71,7 @@ namespace Centralita_II
         private string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Razon social: {razonSocial}");
+            //sb.AppendLine($"Razon social: {razonSocial}");
             sb.AppendLine($"Ganancias por llamadas locales: {GananciasPorLocal}");
             sb.AppendLine($"Ganancias por llamadas provinciales: {GananciasPorProvincial}");
             sb.AppendLine($"Ganancias totales: {GananciasPorTotal}\n");

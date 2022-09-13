@@ -265,7 +265,6 @@
             this.Controls.Add(this.txt_Destino);
             this.Name = "FrmLlamador";
             this.Text = "Llamador";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmLlamador_FormClosing);
             this.Panel.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
