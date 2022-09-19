@@ -5,11 +5,11 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sobrecarga", "Sobrecarga\Sobrecarga.csproj", "{8E9EC85E-D3DC-4CEA-9DBB-407FDF3988A3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicio De Sobrecarga", "Ejercicio De Sobrecarga", "{18A25C2B-5851-42C9-94DD-79F542CB6F7E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Ejercicio De Sobrecarga", "01 Ejercicio De Sobrecarga", "{18A25C2B-5851-42C9-94DD-79F542CB6F7E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSobrecarga", "WSobrecarga\WSobrecarga.csproj", "{0C2963C5-BBEC-4547-9093-D11DEF6BB2CB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Colecciones", "Colecciones", "{C3599DC9-88BB-4753-9334-A99C97942933}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Colecciones", "02 Colecciones", "{C3599DC9-88BB-4753-9334-A99C97942933}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colecciones_NumerosLocos", "Colecciones_NumerosLocos\Colecciones_NumerosLocos.csproj", "{24455BA6-8B14-40D8-A7ED-676852D0F43A}"
 EndProject
@@ -23,13 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Program - Estadistica depor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Competencia Automotores", "Competencia Automotores\Competencia Automotores.csproj", "{1E239D6A-AABA-4194-B33E-2905860777BB}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Encapsulamiento", "Encapsulamiento", "{FAC5C467-EF4C-47A9-8134-766F8BB4F23E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Encapsulamiento", "04 Encapsulamiento", "{FAC5C467-EF4C-47A9-8134-766F8BB4F23E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PuestoDeAtencion", "PuestoDeAtencion\PuestoDeAtencion.csproj", "{0A9A8AA5-C846-4230-A3E7-0F2DBEDF5450}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultaIndice", "ConsultaIndice\ConsultaIndice.csproj", "{0717B495-DA53-4BD6-B431-A3CB08474CD1}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Herencia", "Herencia", "{FC11CA98-F196-43C6-BB30-7DE60D9C6925}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Herencia", "03 Herencia", "{FC11CA98-F196-43C6-BB30-7DE60D9C6925}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehiculos", "Vehiculos\Vehiculos.csproj", "{3D8EFFAE-2AB6-4E6A-AA4B-B1AE9A4DCABD}"
 EndProject
@@ -39,15 +39,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Competencia Automotores Mej
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centralita", "Centralita\Centralita.csproj", "{87A455E5-F162-43F7-80A7-C2E433825D1C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polimorfismo", "Polimorfismo", "{EC5DDCE1-A545-4C5E-BE4C-CB364CA6DD1F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Polimorfismo", "05 Polimorfismo", "{EC5DDCE1-A545-4C5E-BE4C-CB364CA6DD1F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advertencias", "Advertencias\Advertencias.csproj", "{09D9C6A6-B449-46BC-B176-73B8392FEF94}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora", "Calculadora\Calculadora.csproj", "{B8A9B625-0C05-4873-9C64-78DD04297E86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centralita II", "Centralita II\Centralita II.csproj", "{809F12F7-1695-4E93-ABDC-15D11339F15F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centralita II", "Centralita II\Centralita II.csproj", "{809F12F7-1695-4E93-ABDC-15D11339F15F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmMenu", "FrmMenu\FrmMenu.csproj", "{FF2B03DD-1F70-4943-B6B6-591897E3EDF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrmMenu", "FrmMenu\FrmMenu.csproj", "{FF2B03DD-1F70-4943-B6B6-591897E3EDF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 Excepciones", "06 Excepciones", "{14330D98-D37E-46D0-902D-A08B09E44ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lanzar y Atrapar", "Lanzar y Atrapar\Lanzar y Atrapar.csproj", "{5F01877E-B499-4CCE-9421-52DB7483EA8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -127,6 +131,10 @@ Global
 		{FF2B03DD-1F70-4943-B6B6-591897E3EDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF2B03DD-1F70-4943-B6B6-591897E3EDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF2B03DD-1F70-4943-B6B6-591897E3EDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F01877E-B499-4CCE-9421-52DB7483EA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F01877E-B499-4CCE-9421-52DB7483EA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F01877E-B499-4CCE-9421-52DB7483EA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F01877E-B499-4CCE-9421-52DB7483EA8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,6 +158,7 @@ Global
 		{B8A9B625-0C05-4873-9C64-78DD04297E86} = {EC5DDCE1-A545-4C5E-BE4C-CB364CA6DD1F}
 		{809F12F7-1695-4E93-ABDC-15D11339F15F} = {EC5DDCE1-A545-4C5E-BE4C-CB364CA6DD1F}
 		{FF2B03DD-1F70-4943-B6B6-591897E3EDF8} = {EC5DDCE1-A545-4C5E-BE4C-CB364CA6DD1F}
+		{5F01877E-B499-4CCE-9421-52DB7483EA8E} = {14330D98-D37E-46D0-902D-A08B09E44ADA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}
