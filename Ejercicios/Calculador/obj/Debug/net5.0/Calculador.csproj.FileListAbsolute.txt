@@ -1,0 +1,12 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\bin\Debug\net5.0\Calculador.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\bin\Debug\net5.0\Calculador.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\bin\Debug\net5.0\Calculador.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\obj\Debug\net5.0\Calculador.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\obj\Debug\net5.0\Calculador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\obj\Debug\net5.0\Calculador.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\obj\Debug\net5.0\Calculador.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\obj\Debug\net5.0\Calculador.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\obj\Debug\net5.0\Calculador.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\obj\Debug\net5.0\refint\Calculador.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\obj\Debug\net5.0\Calculador.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Calculador\obj\Debug\net5.0\ref\Calculador.dll

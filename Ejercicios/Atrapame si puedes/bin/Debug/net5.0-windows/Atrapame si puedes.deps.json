@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Atrapame si puedes/1.0.0": {
+        "dependencies": {
+          "Calculador": "1.0.0"
+        },
+        "runtime": {
+          "Atrapame si puedes.dll": {}
+        }
+      },
+      "Calculador/1.0.0": {
+        "runtime": {
+          "Calculador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atrapame si puedes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

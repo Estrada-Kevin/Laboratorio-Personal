@@ -10,6 +10,7 @@ namespace Lanzar_y_Atrapar
             try
             {
                 OtraClase.instanciarClase();
+                
             }
             catch (Exception ex)
             {

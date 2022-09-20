@@ -1,0 +1,21 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\bin\Debug\net5.0-windows\Atrapame si puedes.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\bin\Debug\net5.0-windows\Atrapame si puedes.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\bin\Debug\net5.0-windows\Atrapame si puedes.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\bin\Debug\net5.0-windows\Atrapame si puedes.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\bin\Debug\net5.0-windows\Atrapame si puedes.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\bin\Debug\net5.0-windows\Atrapame si puedes.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\bin\Debug\net5.0-windows\Calculador.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\bin\Debug\net5.0-windows\Calculador.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame si puedes.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame_si_puedes.Form1.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame si puedes.csproj.GenerateResource.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame si puedes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame si puedes.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame si puedes.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame si puedes.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame si puedes.csproj.CopyComplete
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame si puedes.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\refint\Atrapame si puedes.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame si puedes.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\Atrapame si puedes.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Atrapame si puedes\obj\Debug\net5.0-windows\ref\Atrapame si puedes.dll
