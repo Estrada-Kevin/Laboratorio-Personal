@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/Centralita II.dll": {}
         }
+      },
+      "Centralita III/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Centralita III.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Centralita III.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../Centralita II/Centralita II.csproj",
       "msbuildProject": "../Centralita II/Centralita II.csproj"
+    },
+    "Centralita III/1.0.0": {
+      "type": "project",
+      "path": "../Centralita III/Centralita III.csproj",
+      "msbuildProject": "../Centralita III/Centralita III.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "Centralita II >= 1.0.0"
+      "Centralita II >= 1.0.0",
+      "Centralita III >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,6 +69,9 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
+            "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita III\\Centralita III.csproj": {
+              "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita III\\Centralita III.csproj"
+            },
             "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita II\\Centralita II.csproj": {
               "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita II\\Centralita II.csproj"
             }

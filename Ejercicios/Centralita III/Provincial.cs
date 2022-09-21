@@ -51,7 +51,7 @@ namespace Centralita_III
             sb.AppendLine("Llamada Provincial.");
             sb.AppendLine(base.Mostrar());
             sb.AppendLine($"Franja: {franjaHoraria}");
-            sb.AppendLine($"Costo de llamada: {CostoLlamada}\n");
+            sb.AppendLine($"Costo de llamada: {CostoLlamada.ToString("0.##")}\n");
             return sb.ToString();
         }
 

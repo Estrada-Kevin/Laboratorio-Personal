@@ -70,7 +70,7 @@ namespace Centralita_III
             StringBuilder sb = new StringBuilder();
             //sb.AppendLine($"Razon social: {razonSocial}");
             sb.AppendLine($"Ganancias por llamadas locales: {GananciasPorLocal}");
-            sb.AppendLine($"Ganancias por llamadas provinciales: {GananciasPorProvincial}");
+            sb.AppendLine($"Ganancias por llamadas provinciales: {GananciasPorProvincial.ToString("0.##")}");
             sb.AppendLine($"Ganancias totales: {GananciasPorTotal}\n");
             foreach (Llamada item in listaDeLlamadas)
             {
@@ -128,7 +128,7 @@ namespace Centralita_III
             {
                 if(c==nuevaLlamada)
                 {
-                    throw new CentralitaException("",c.ToString(), nuevaLlamada.ToString());
+                    throw new CentralitaException("","","");
                 }
                 c.AgregarLlamada(nuevaLlamada);
             }

@@ -1,4 +1,4 @@
-﻿using Centralita_II;
+﻿using Centralita_III;
 using System;
 using System.Windows.Forms;
 
@@ -134,18 +134,33 @@ namespace FrmMenu
 
             if (txt_Destino.Text.StartsWith("#") && txt_Origen.Text != "")
             {
-                l1 = new Provincial(txt_Origen.Text, franjas, r.Next(1, 50), txt_Destino.Text);
-                _ = centralita + l1;
-            }
-            
-            
-            if (txt_Destino.Text != "" && txt_Origen.Text != "")
-            {
-                l1 = new Local(txt_Origen.Text, r.Next(1, 50), txt_Destino.Text, CostoRandom());
-                _ = centralita + l1;
+                try
+                {
+                    l1 = new Provincial(txt_Origen.Text, franjas, r.Next(1, 50), txt_Destino.Text);
+                    LlamadaException(l1);
+                    _ = centralita + l1;
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("La llamada ya se encuentra en el sistema");
+                }
+                
             }
 
-            
+            else if (txt_Destino.Text != "" && txt_Origen.Text != "")
+            {
+                try
+                {
+                    l1 = new Local(txt_Origen.Text, r.Next(1, 50), txt_Destino.Text, CostoRandom());
+                    LlamadaException(l1);
+                    _ = centralita + l1;
+                }
+                catch (Exception)
+                {
+                    MessageBox.Show("La llamada ya se encuentra en el sistema");
+                }
+                
+            }
         }
 
         private void btn_Salir_Click(object sender, EventArgs e)
@@ -168,5 +183,17 @@ namespace FrmMenu
             return f;
         }
 
+        private void LlamadaException(Llamada l1)
+        {
+
+            foreach (Llamada item in centralita.Llamadas)
+            {
+                if (l1 == item)
+                {
+                    throw new CentralitaException("", "", "");
+                }
+            }
+
+        }
     }
 }

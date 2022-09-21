@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Centralita III\Centralita III.csproj" />
     <ProjectReference Include="..\Centralita II\Centralita II.csproj" />
   </ItemGroup>
 

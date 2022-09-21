@@ -25,3 +25,9 @@ C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\ne
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.pdb
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.genruntimeconfig.cache
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\ref\FrmMenu.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.pdb
