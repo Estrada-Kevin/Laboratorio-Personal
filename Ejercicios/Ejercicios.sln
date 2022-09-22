@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculador", "Calculador\Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atrapame si puedes", "Atrapame si puedes\Atrapame si puedes.csproj", "{49CC0402-90B8-4410-8D34-B04FF208454A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centralita III", "Centralita III\Centralita III.csproj", "{6C69967A-753F-4B76-BABF-8E3E0091F1BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centralita III", "Centralita III\Centralita III.csproj", "{6C69967A-753F-4B76-BABF-8E3E0091F1BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segui participando", "Segui participando\Segui participando.csproj", "{E63FB383-F0DA-4685-A6D3-DBBA65D660F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{6C69967A-753F-4B76-BABF-8E3E0091F1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C69967A-753F-4B76-BABF-8E3E0091F1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C69967A-753F-4B76-BABF-8E3E0091F1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E63FB383-F0DA-4685-A6D3-DBBA65D660F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E63FB383-F0DA-4685-A6D3-DBBA65D660F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E63FB383-F0DA-4685-A6D3-DBBA65D660F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E63FB383-F0DA-4685-A6D3-DBBA65D660F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -180,6 +186,7 @@ Global
 		{06B79215-8B42-4522-A44A-8F9E52FDBE8A} = {14330D98-D37E-46D0-902D-A08B09E44ADA}
 		{49CC0402-90B8-4410-8D34-B04FF208454A} = {14330D98-D37E-46D0-902D-A08B09E44ADA}
 		{6C69967A-753F-4B76-BABF-8E3E0091F1BF} = {14330D98-D37E-46D0-902D-A08B09E44ADA}
+		{E63FB383-F0DA-4685-A6D3-DBBA65D660F3} = {14330D98-D37E-46D0-902D-A08B09E44ADA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}

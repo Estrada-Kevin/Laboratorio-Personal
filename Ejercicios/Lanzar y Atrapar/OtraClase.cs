@@ -18,7 +18,7 @@ namespace Lanzar_y_Atrapar
             }
             catch (Exception ex)
             {
-                throw new MiExcepcion("ERROR 4 " + ex.Message, ex.InnerException );
+                throw new MiExcepcion("ERROR 4 " ,ex);
             }
         }
     }

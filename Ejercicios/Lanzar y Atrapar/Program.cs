@@ -14,7 +14,13 @@ namespace Lanzar_y_Atrapar
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message + ex.InnerException.Message);
+                string msg = ex.Message;
+                while (ex.InnerException is not null)
+                {
+                    msg += ex.InnerException.Message;
+                    ex = ex.InnerException;
+                }
+                Console.WriteLine(msg);
             }
 
         }

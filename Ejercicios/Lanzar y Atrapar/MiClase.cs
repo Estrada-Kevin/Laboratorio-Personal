@@ -30,7 +30,7 @@ namespace Lanzar_y_Atrapar
             }
             catch (Exception ex)
             {
-                throw new UnaExcepcion("ERROR 3 " + ex.Message, ex.InnerException);
+                throw new UnaExcepcion("ERROR 3 ", ex);
             }
         }
 
