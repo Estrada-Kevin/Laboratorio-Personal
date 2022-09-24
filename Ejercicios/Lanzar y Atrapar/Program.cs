@@ -19,8 +19,10 @@ namespace Lanzar_y_Atrapar
                 {
                     msg += ex.InnerException.Message;
                     ex = ex.InnerException;
+                    
                 }
                 Console.WriteLine(msg);
+
             }
 
         }

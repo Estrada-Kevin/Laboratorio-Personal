@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\FrmMenu\\FrmMenu (centralita II.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita III\\Centralita III.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita III\\Centralita III.csproj",
+        "projectName": "Centralita III",
+        "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita III\\Centralita III.csproj",
+        "packagesPath": "C:\\Users\\brake\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita III\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita II\\Centralita II.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita II\\Centralita II.csproj",
+        "projectName": "Centralita II",
+        "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita II\\Centralita II.csproj",
+        "packagesPath": "C:\\Users\\brake\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita II\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\FrmMenu\\FrmMenu (centralita II.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\FrmMenu\\FrmMenu (centralita II.csproj",
+        "projectName": "FrmMenu (centralita II",
+        "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\FrmMenu\\FrmMenu (centralita II.csproj",
+        "packagesPath": "C:\\Users\\brake\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\FrmMenu\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita III\\Centralita III.csproj": {
+                "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita III\\Centralita III.csproj"
+              },
+              "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita II\\Centralita II.csproj": {
+                "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita II\\Centralita II.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

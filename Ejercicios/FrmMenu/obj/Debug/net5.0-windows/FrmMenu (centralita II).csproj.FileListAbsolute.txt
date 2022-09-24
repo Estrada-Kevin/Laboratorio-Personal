@@ -1,0 +1,33 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu (centralita II).exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu (centralita II).deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu (centralita II).runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu (centralita II).runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu (centralita II).dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\FrmMenu (centralita II).pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita III.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\bin\Debug\net5.0-windows\Centralita II.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu (centralita II).csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.FrmLlamador.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.FrmMenu.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu.FrmMostrar.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu (centralita II).csproj.GenerateResource.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu (centralita II).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu (centralita II).AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu (centralita II).AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu (centralita II).csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu (centralita II).csproj.CopyComplete
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu (centralita II).dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\refint\FrmMenu (centralita II).dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu (centralita II).pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\FrmMenu (centralita II).genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\FrmMenu\obj\Debug\net5.0-windows\ref\FrmMenu (centralita II).dll
