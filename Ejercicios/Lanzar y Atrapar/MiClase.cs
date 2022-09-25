@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lanzar_y_Atrapar
 {
-    internal class MiClase
+    public class MiClase
     {
 
         private int numero;

@@ -7,17 +7,17 @@ namespace Centralita_prueba_unitaria
     public class CentralitaUnitTest
     {
         [TestMethod]
-        public void CentralitaInstaciadaTest1()
+        public void CentralitaTest1()
         {
             Centralita auxiliar = new Centralita();
-            
-            Assert.IsTrue(auxiliar.Llamadas is not null);
+
+            Assert.IsNotNull(auxiliar.Llamadas);
 
         }
 
         [TestMethod]
         [ExpectedException(typeof(CentralitaException))]
-        public void CentralitaInstaciadaTest2()
+        public void CentralitaTest2()
         {
             Centralita auxiliar = new Centralita();
             Local l1 = new Local("Bernal", 30, "Rosario", 2.65f);
@@ -32,7 +32,7 @@ namespace Centralita_prueba_unitaria
 
         [TestMethod]
         [ExpectedException(typeof(CentralitaException))]
-        public void CentralitaInstaciadaTest3()
+        public void CentralitaTest3()
         {
             Centralita auxiliar = new Centralita();
             Provincial l1 = new Provincial("Morón", Franja.Franja_1, 21, "Bernal");
@@ -46,7 +46,7 @@ namespace Centralita_prueba_unitaria
         }
 
         [TestMethod]
-        public void CentralitaInstaciadaTest4()
+        public void CentralitaTest4()
         {
             Local l1 = new Local("Bernal", 30, "Rosario", 2.65f);
             Local l2 = new Local("Bernal", 30, "Rosario", 2.65f);

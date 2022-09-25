@@ -16,6 +16,11 @@ namespace Segui_participando
         private List<VehiculoDeCarrera> competidores;
         private TipoCompetencia tipo;
 
+        public List<VehiculoDeCarrera> Competidores
+        {
+            get { return competidores; }
+        }
+
         public short CantidadCompetidores
         {
             get { return cantidadCompetidores; }
