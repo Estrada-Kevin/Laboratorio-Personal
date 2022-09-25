@@ -126,10 +126,7 @@ namespace Centralita_III
         {
             try
             {
-                if(c==nuevaLlamada)
-                {
-                    throw new CentralitaException("","","");
-                }
+                CentralitaMetodoException(c, nuevaLlamada);
                 c.AgregarLlamada(nuevaLlamada);
             }
             catch (System.Exception)
@@ -137,6 +134,14 @@ namespace Centralita_III
                 System.Console.WriteLine($"La llamada siguiente llamada ya se encuentra en el sistema: \n{nuevaLlamada.ToString()} ");
             }
             return c;
+        }
+
+        public static void CentralitaMetodoException(Centralita c, Llamada nuevaLlamada)
+        {
+            if(c==nuevaLlamada)
+            {
+                throw new CentralitaException("", "", "");
+            }
         }
     }
 }

@@ -5,7 +5,7 @@ using CalculadoraUnitaria;
 namespace CalculadoraTest
 {
     [TestClass]
-    public class UnitTest1
+    public class CalculadoraUnitTest
     {
         [TestMethod]
         public void AddPrueba1()
