@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\bin\Debug\net5.0\Torneo.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\bin\Debug\net5.0\Torneo.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\bin\Debug\net5.0\Torneo.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\bin\Debug\net5.0\Torneo.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\bin\Debug\net5.0\Torneo.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\bin\Debug\net5.0\Torneo.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\obj\Debug\net5.0\Torneo.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\obj\Debug\net5.0\Torneo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\obj\Debug\net5.0\Torneo.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\obj\Debug\net5.0\Torneo.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\obj\Debug\net5.0\Torneo.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\obj\Debug\net5.0\Torneo.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\obj\Debug\net5.0\refint\Torneo.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\obj\Debug\net5.0\Torneo.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\obj\Debug\net5.0\Torneo.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Torneo\obj\Debug\net5.0\ref\Torneo.dll

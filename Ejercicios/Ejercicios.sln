@@ -71,11 +71,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculadoraTest", "Calculad
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Calculadora prueba unitaria", "Calculadora prueba unitaria", "{BD833F6E-B308-4FD2-87B0-B72BFE4D1F91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centralita prueba unitaria", "Centralita prueba unitaria\Centralita prueba unitaria.csproj", "{A29D96AE-DBB4-4A68-9B42-D99E7795C301}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centralita prueba unitaria", "Centralita prueba unitaria\Centralita prueba unitaria.csproj", "{A29D96AE-DBB4-4A68-9B42-D99E7795C301}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lanzar y Atrapar prueba unitaria", "Lanzar y Atrapar prueba unitaria\Lanzar y Atrapar prueba unitaria.csproj", "{8DEA7C67-E7CA-464F-8F25-05C05369E064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lanzar y Atrapar prueba unitaria", "Lanzar y Atrapar prueba unitaria\Lanzar y Atrapar prueba unitaria.csproj", "{8DEA7C67-E7CA-464F-8F25-05C05369E064}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segui Participando prueba unitaria", "Segui Participando prueba unitaria\Segui Participando prueba unitaria.csproj", "{1201FD4F-6379-410D-AE7D-774C9AD7BF90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Segui Participando prueba unitaria", "Segui Participando prueba unitaria\Segui Participando prueba unitaria.csproj", "{1201FD4F-6379-410D-AE7D-774C9AD7BF90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08 Tipos Genericos", "08 Tipos Genericos", "{248CFE41-5EEC-42A4-A6C9-CDD656804006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torneo", "Torneo\Torneo.csproj", "{D45680D7-31F4-4FD6-A088-8D6399E07AD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +199,10 @@ Global
 		{1201FD4F-6379-410D-AE7D-774C9AD7BF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1201FD4F-6379-410D-AE7D-774C9AD7BF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1201FD4F-6379-410D-AE7D-774C9AD7BF90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45680D7-31F4-4FD6-A088-8D6399E07AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45680D7-31F4-4FD6-A088-8D6399E07AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45680D7-31F4-4FD6-A088-8D6399E07AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45680D7-31F4-4FD6-A088-8D6399E07AD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -230,6 +238,7 @@ Global
 		{A29D96AE-DBB4-4A68-9B42-D99E7795C301} = {995A4AC3-3CB2-4D48-8AC9-BF4CFD94045D}
 		{8DEA7C67-E7CA-464F-8F25-05C05369E064} = {995A4AC3-3CB2-4D48-8AC9-BF4CFD94045D}
 		{1201FD4F-6379-410D-AE7D-774C9AD7BF90} = {995A4AC3-3CB2-4D48-8AC9-BF4CFD94045D}
+		{D45680D7-31F4-4FD6-A088-8D6399E07AD3} = {248CFE41-5EEC-42A4-A6C9-CDD656804006}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}
