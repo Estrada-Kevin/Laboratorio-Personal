@@ -35,7 +35,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehiculos", "Vehiculos\Vehi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estadistica deportiva mejorada", "Estadistica deportiva mejorada\Estadistica deportiva mejorada.csproj", "{D181C32C-D50B-4B12-8CD5-B11DD946621D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Competencia Automotores Mejorado", "Competencia Automotores Mejorado\Competencia Automotores Mejorado.csproj", "{A4C1AD68-F2E9-4E2E-9B26-AD1814324413}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Competencia Automotores II", "Competencia Automotores Mejorado\Competencia Automotores II.csproj", "{A4C1AD68-F2E9-4E2E-9B26-AD1814324413}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centralita", "Centralita\Centralita.csproj", "{87A455E5-F162-43F7-80A7-C2E433825D1C}"
 EndProject
@@ -82,6 +82,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torneo", "Torneo\Torneo.csproj", "{D45680D7-31F4-4FD6-A088-8D6399E07AD3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contabilidad", "Contabilidad\Contabilidad.csproj", "{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Competencia Automotores III", "Competencia Automotores III\Competencia Automotores III.csproj", "{301EDF6D-381B-4C94-AD18-BFCB8175A6B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -209,6 +211,10 @@ Global
 		{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301EDF6D-381B-4C94-AD18-BFCB8175A6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301EDF6D-381B-4C94-AD18-BFCB8175A6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301EDF6D-381B-4C94-AD18-BFCB8175A6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301EDF6D-381B-4C94-AD18-BFCB8175A6B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -246,6 +252,7 @@ Global
 		{1201FD4F-6379-410D-AE7D-774C9AD7BF90} = {995A4AC3-3CB2-4D48-8AC9-BF4CFD94045D}
 		{D45680D7-31F4-4FD6-A088-8D6399E07AD3} = {248CFE41-5EEC-42A4-A6C9-CDD656804006}
 		{F0335B4B-8371-4B4E-8B6F-98E3CA48D260} = {248CFE41-5EEC-42A4-A6C9-CDD656804006}
+		{301EDF6D-381B-4C94-AD18-BFCB8175A6B6} = {248CFE41-5EEC-42A4-A6C9-CDD656804006}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Competencia_Automotores_Mejorado</RootNamespace>
+    <RootNamespace>Competencia_Automotores_III</RootNamespace>
   </PropertyGroup>
 
 </Project>

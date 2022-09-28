@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\bin\Debug\net5.0\Competencia Automotores III.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\bin\Debug\net5.0\Competencia Automotores III.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\bin\Debug\net5.0\Competencia Automotores III.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\bin\Debug\net5.0\Competencia Automotores III.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\bin\Debug\net5.0\Competencia Automotores III.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\bin\Debug\net5.0\Competencia Automotores III.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\obj\Debug\net5.0\Competencia Automotores III.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\obj\Debug\net5.0\Competencia Automotores III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\obj\Debug\net5.0\Competencia Automotores III.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\obj\Debug\net5.0\Competencia Automotores III.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\obj\Debug\net5.0\Competencia Automotores III.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\obj\Debug\net5.0\Competencia Automotores III.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\obj\Debug\net5.0\refint\Competencia Automotores III.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\obj\Debug\net5.0\Competencia Automotores III.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\obj\Debug\net5.0\Competencia Automotores III.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Competencia Automotores III\obj\Debug\net5.0\ref\Competencia Automotores III.dll
