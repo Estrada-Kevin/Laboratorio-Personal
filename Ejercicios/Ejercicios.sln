@@ -81,6 +81,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08 Tipos Genericos", "08 Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torneo", "Torneo\Torneo.csproj", "{D45680D7-31F4-4FD6-A088-8D6399E07AD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contabilidad", "Contabilidad\Contabilidad.csproj", "{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -203,6 +205,10 @@ Global
 		{D45680D7-31F4-4FD6-A088-8D6399E07AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D45680D7-31F4-4FD6-A088-8D6399E07AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D45680D7-31F4-4FD6-A088-8D6399E07AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -239,6 +245,7 @@ Global
 		{8DEA7C67-E7CA-464F-8F25-05C05369E064} = {995A4AC3-3CB2-4D48-8AC9-BF4CFD94045D}
 		{1201FD4F-6379-410D-AE7D-774C9AD7BF90} = {995A4AC3-3CB2-4D48-8AC9-BF4CFD94045D}
 		{D45680D7-31F4-4FD6-A088-8D6399E07AD3} = {248CFE41-5EEC-42A4-A6C9-CDD656804006}
+		{F0335B4B-8371-4B4E-8B6F-98E3CA48D260} = {248CFE41-5EEC-42A4-A6C9-CDD656804006}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}
