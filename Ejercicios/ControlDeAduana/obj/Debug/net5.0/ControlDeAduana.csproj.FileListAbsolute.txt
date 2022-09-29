@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\bin\Debug\net5.0\ControlDeAduana.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\bin\Debug\net5.0\ControlDeAduana.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\bin\Debug\net5.0\ControlDeAduana.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\bin\Debug\net5.0\ControlDeAduana.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\bin\Debug\net5.0\ControlDeAduana.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\bin\Debug\net5.0\ControlDeAduana.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\obj\Debug\net5.0\ControlDeAduana.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\obj\Debug\net5.0\ControlDeAduana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\obj\Debug\net5.0\ControlDeAduana.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\obj\Debug\net5.0\ControlDeAduana.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\obj\Debug\net5.0\ControlDeAduana.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\obj\Debug\net5.0\ControlDeAduana.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\obj\Debug\net5.0\refint\ControlDeAduana.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\obj\Debug\net5.0\ControlDeAduana.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\obj\Debug\net5.0\ControlDeAduana.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ControlDeAduana\obj\Debug\net5.0\ref\ControlDeAduana.dll
