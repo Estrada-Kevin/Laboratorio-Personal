@@ -9,6 +9,7 @@ namespace Cartuchera
     public class Lapiz: IAcciones
     {
         private float tamanioMina;
+        
 
         public Lapiz(int unidades)
         {

@@ -10,6 +10,7 @@ namespace Cartuchera
     {
         private ConsoleColor colorTinta;
         private float tinta;
+        
 
         public ConsoleColor Color
         {

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace Cartuchera
 {
@@ -21,20 +17,29 @@ namespace Cartuchera
 
         public bool RecorrerElementos(List<IAcciones> acciones)
         {
-            foreach (IAcciones item in acciones)
+            if (acciones is not null)
             {
-                if(item.UnidadesDeEscritura>0)
+                int cantidadAcciones = acciones.Count;
+                int cantidadDescargas = 0;
+                foreach (IAcciones item in acciones)
                 {
-                    item.UnidadesDeEscritura -= 1;
+                    if (item.UnidadesDeEscritura > 0)
+                    {
+                        item.UnidadesDeEscritura--;
+                        cantidadDescargas++;
+                    }
+                    else if (item.UnidadesDeEscritura == 0)
+                    {
+                        item.Recargar(20);
+                    }
+                }
+                if(cantidadAcciones==cantidadDescargas)
+                {
                     return true;
                 }
-                if(item.UnidadesDeEscritura <= 0)
-                {
-                    return false;
-                }
-                item.Recargar(20);
+                
+                
             }
-            
             return false;
         }
     }

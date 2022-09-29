@@ -30,36 +30,39 @@ namespace Cartuchera
 
             List<Lapiz> listaLapiz = new List<Lapiz>();
             List<Boligrafo> listaBoligrafo = new List<Boligrafo>();
+
             List<IAcciones> listaAcciones = new List<IAcciones>();
 
             Lapiz lapiz1 = new Lapiz(5);
-            Lapiz lapiz2 = new Lapiz(5);
             Boligrafo boligrafo1 = new Boligrafo(5, ConsoleColor.Red);
-            Boligrafo boligrafo2 = new Boligrafo(5, ConsoleColor.Red);
-
-
-            listaLapiz.Add(lapiz2);
-            listaBoligrafo.Add(boligrafo2);
-
             listaAcciones.Add(lapiz1);
             listaAcciones.Add(boligrafo1);
 
-            while(cartucheraMultiuso.RecorrerElementos(listaAcciones)==true)
+            Boligrafo boligrafo2 = new Boligrafo(5, ConsoleColor.Red);
+            Lapiz lapiz2 = new Lapiz(5);
+            listaLapiz.Add(lapiz2);
+            listaBoligrafo.Add(boligrafo2);
+
+
+            bool auxiliar;
+
+            do
             {
-                Console.WriteLine(cartucheraMultiuso.RecorrerElementos(listaAcciones));
-            }
+                auxiliar = cartucheraMultiuso.RecorrerElementos(listaAcciones);
+                Console.WriteLine(auxiliar);
+            } while (auxiliar);
+            
 
             Console.WriteLine();
             Console.WriteLine("SEPARADOR");
             Console.WriteLine();
 
-            while (cartucheraSimple.RecorrerElementos(listaBoligrafo, listaLapiz) == true)
+            do
             {
-                Console.WriteLine(cartucheraSimple.RecorrerElementos(listaBoligrafo, listaLapiz));
+                auxiliar = cartucheraSimple.RecorrerElementos(listaBoligrafo, listaLapiz);
+                Console.WriteLine(auxiliar);
 
-            }
-
-
+            } while (auxiliar);
 
         }
     }

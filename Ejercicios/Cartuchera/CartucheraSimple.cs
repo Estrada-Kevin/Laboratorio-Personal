@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace Cartuchera
 {
@@ -18,7 +14,7 @@ namespace Cartuchera
 
         public List<Boligrafo> BoligrafoLista
         {
-            get { return boligrafoLista; }  
+            get { return boligrafoLista; }
         }
         public List<Lapiz> LapizLista
         {
@@ -27,47 +23,71 @@ namespace Cartuchera
 
         public bool RecorrerElementos(List<Boligrafo> listaBoligrafo, List<Lapiz> listaLapiz)
         {
-            if(RecorrerBoligrafo(listaBoligrafo) == true && RecorrerLapiz(listaLapiz)==true)
+
+            if (RecorrerBoligrafo(listaBoligrafo) && RecorrerLapiz(listaLapiz))
             {
                 return true;
             }
 
+
+
             return false;
+
         }
 
         private bool RecorrerBoligrafo(List<Boligrafo> listaBoligrafo)
         {
-            foreach (Boligrafo item in listaBoligrafo)
+            if (listaBoligrafo is not null)
             {
-                if (item.UnidadesDeEscritura > 0)
+                int cantidadAcciones = listaBoligrafo.Count;
+                int cantidadDescargas = 0;
+                foreach (Boligrafo item in listaBoligrafo)
                 {
-                    item.UnidadesDeEscritura -= 1;
-                    return true;
+                    if (item.UnidadesDeEscritura > 0)
+                    {
+                        item.UnidadesDeEscritura--;
+                        cantidadDescargas++;
+                    }
+                    else if (item.UnidadesDeEscritura == 0)
+                    {
+                        item.Recargar(20);
+                    }
+                    if(cantidadAcciones==cantidadDescargas)
+                    {
+                        return true;
+                    }
+
                 }
-                if (item.UnidadesDeEscritura <= 0)
-                {
-                    return false;
-                }
-                item.Recargar(20);
             }
+
             return false;
         }
 
         private bool RecorrerLapiz(List<Lapiz> listaLapiz)
         {
-            foreach (Lapiz item in listaLapiz)
+            if (listaLapiz is not null)
             {
-                if (item.UnidadesDeEscritura > 0)
+                int cantidadAcciones = listaLapiz.Count;
+                int cantidadDescargas = 0;
+                foreach (Lapiz item in listaLapiz)
                 {
-                    item.UnidadesDeEscritura -= 1;
-                    return true;
+                    if (item.UnidadesDeEscritura > 0)
+                    {
+                        item.UnidadesDeEscritura--;
+                        cantidadDescargas++;
+                    }
+                    else if (item.UnidadesDeEscritura == 0)
+                    {
+                        item.Recargar(20);
+                    }
+                    if(cantidadDescargas==cantidadAcciones)
+                    {
+                        return true;
+                    }
+
                 }
-                if (item.UnidadesDeEscritura <= 0)
-                {
-                    return false;
-                }
-                item.Recargar(20);
             }
+
             return false;
         }
     }
