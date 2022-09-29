@@ -79,11 +79,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Segui Participando prueba u
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08 Tipos Genericos", "08 Tipos Genericos", "{248CFE41-5EEC-42A4-A6C9-CDD656804006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torneo", "Torneo\Torneo.csproj", "{D45680D7-31F4-4FD6-A088-8D6399E07AD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Torneo", "Torneo\Torneo.csproj", "{D45680D7-31F4-4FD6-A088-8D6399E07AD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contabilidad", "Contabilidad\Contabilidad.csproj", "{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contabilidad", "Contabilidad\Contabilidad.csproj", "{F0335B4B-8371-4B4E-8B6F-98E3CA48D260}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Competencia Automotores III", "Competencia Automotores III\Competencia Automotores III.csproj", "{301EDF6D-381B-4C94-AD18-BFCB8175A6B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Competencia Automotores III", "Competencia Automotores III\Competencia Automotores III.csproj", "{301EDF6D-381B-4C94-AD18-BFCB8175A6B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09 Interfaces", "09 Interfaces", "{D6ED7409-CA42-42A6-A801-543F52C04A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartuchera", "Cartuchera\Cartuchera.csproj", "{3C63F110-954E-4544-8651-61EBA74F070F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -215,6 +219,10 @@ Global
 		{301EDF6D-381B-4C94-AD18-BFCB8175A6B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{301EDF6D-381B-4C94-AD18-BFCB8175A6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{301EDF6D-381B-4C94-AD18-BFCB8175A6B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C63F110-954E-4544-8651-61EBA74F070F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C63F110-954E-4544-8651-61EBA74F070F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C63F110-954E-4544-8651-61EBA74F070F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C63F110-954E-4544-8651-61EBA74F070F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -253,6 +261,7 @@ Global
 		{D45680D7-31F4-4FD6-A088-8D6399E07AD3} = {248CFE41-5EEC-42A4-A6C9-CDD656804006}
 		{F0335B4B-8371-4B4E-8B6F-98E3CA48D260} = {248CFE41-5EEC-42A4-A6C9-CDD656804006}
 		{301EDF6D-381B-4C94-AD18-BFCB8175A6B6} = {248CFE41-5EEC-42A4-A6C9-CDD656804006}
+		{3C63F110-954E-4544-8651-61EBA74F070F} = {D6ED7409-CA42-42A6-A801-543F52C04A0C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}

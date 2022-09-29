@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\bin\Debug\net5.0\Cartuchera.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\bin\Debug\net5.0\Cartuchera.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\bin\Debug\net5.0\Cartuchera.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\bin\Debug\net5.0\Cartuchera.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\bin\Debug\net5.0\Cartuchera.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\bin\Debug\net5.0\Cartuchera.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\obj\Debug\net5.0\Cartuchera.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\obj\Debug\net5.0\Cartuchera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\obj\Debug\net5.0\Cartuchera.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\obj\Debug\net5.0\Cartuchera.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\obj\Debug\net5.0\Cartuchera.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\obj\Debug\net5.0\Cartuchera.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\obj\Debug\net5.0\refint\Cartuchera.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\obj\Debug\net5.0\Cartuchera.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\obj\Debug\net5.0\Cartuchera.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Cartuchera\obj\Debug\net5.0\ref\Cartuchera.dll
