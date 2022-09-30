@@ -57,13 +57,7 @@ namespace Centralita_IV
 
         public bool Guardar()
         {
-            Local local = new Local("", 1, "", 1);
-            if(local is not null)
-            {
-                local.ToString();
-                return true;
-            }
-            return false;
+            throw new NotImplementedException();
         }
 
         public Local Leer()

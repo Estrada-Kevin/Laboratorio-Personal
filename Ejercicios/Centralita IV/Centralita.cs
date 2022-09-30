@@ -155,10 +155,9 @@ namespace Centralita_IV
 
         public bool Guardar()
         {
-            Centralita centralita = new Centralita();
-            if(centralita is not null)
+            if(this is not null)
             {
-                centralita.ToString();
+                this.ToString();
                 return true;
             }
             return false;

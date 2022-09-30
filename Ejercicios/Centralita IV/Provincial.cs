@@ -75,13 +75,7 @@ namespace Centralita_IV
 
         public bool Guardar()
         {
-            Provincial provincial = new Provincial("", Franja.Franja_1, 1, "");
-            if(provincial is not null)
-            {
-                provincial.ToString();
-                return true;
-            }
-            return false;
+            throw new NotImplementedException();
         }
 
         public Provincial Leer()
