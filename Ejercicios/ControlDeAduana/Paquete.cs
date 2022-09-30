@@ -21,7 +21,7 @@ namespace ControlDeAduana
 
         public decimal Impuestos
         {
-            get { return costoEnvio * (decimal)0.35; }
+            get { return costoEnvio * 0.35M; }
             
         }
 
@@ -48,7 +48,15 @@ namespace ControlDeAduana
             sb.AppendLine($"Destino: {destino}");
             sb.AppendLine($"Origen: {origen}");
             sb.AppendLine($"Peso: {pesoKg}");
-            sb.AppendLine($"Tiene prioridad: {TienePrioridad}");
+            if(TienePrioridad)
+            {
+                sb.AppendLine($"Tiene prioridad.");
+            }
+            else
+            {
+                sb.AppendLine($"No tiene prioridad.");
+            }
+            
 
             return sb.ToString();
 

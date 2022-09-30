@@ -12,7 +12,6 @@ namespace ControlDeAduana
         {
 
         }
-
         public override bool TienePrioridad
         {
             get { return true; }

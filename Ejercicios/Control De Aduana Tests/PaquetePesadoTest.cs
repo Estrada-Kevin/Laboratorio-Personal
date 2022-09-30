@@ -20,9 +20,31 @@ namespace Control_De_Aduana_Tests
         {
             PaquetePesado paquetePesado = new PaquetePesado("", 2, "", "", 2);
 
-            decimal auxiliar = 2 * (decimal)0.35;
+            decimal valorEsperado = 2 * 0.35M;
 
-            Assert.IsTrue(paquetePesado.Impuestos == auxiliar);
+            Assert.IsTrue(paquetePesado.Impuestos == valorEsperado);
+        }
+
+        [TestMethod]
+        public void Impuestos_DeberiaRetornarValorImpuestoDel25PorcientoSobreCostoEnvio_CuandoEsImplementacionExplicitaIAfip()
+        {
+            PaquetePesado paquetePesado = new PaquetePesado("", 2, "", "", 2);
+
+            decimal valorEsperado = 2 * 0.25M;
+
+            Assert.IsTrue(((IAfip)paquetePesado).Impuestos == valorEsperado);
+
+        }
+        
+        [TestMethod]
+        public void AplicarImpuestos_DeberiaRetornarCostoDeEnvioMasImpuestosAfipYAduana()
+        {
+            PaquetePesado paquetePesado = new PaquetePesado("", 2, "", "", 2);
+
+            decimal valorEsperado = 2 * 1.35M + ((IAfip)paquetePesado).Impuestos;
+
+            Assert.IsTrue(paquetePesado.AplicarImpuestos()==valorEsperado);
+
         }
     }
 }
