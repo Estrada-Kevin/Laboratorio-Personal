@@ -2,6 +2,7 @@
 {
     public class CalculadoraPrueba
     {
+        ///Hay distintas versiones del método Add debido a que el ejercicio pedía ir complejizando poco a poco el metodo.
         public static int Add(string numeros)
         {
             string[] auxiliar = numeros.Split(',');

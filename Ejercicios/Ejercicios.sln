@@ -95,7 +95,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Control De Aduana", "Contro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Control De Aduana Tests", "Control De Aduana Tests\Control De Aduana Tests.csproj", "{C63F6DAB-7ABB-4293-BF3D-965B135C1DEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centralita IV", "Centralita IV\Centralita IV.csproj", "{E7E2618F-EB8F-41B7-AECE-8137A58C4064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Centralita IV", "Centralita IV\Centralita IV.csproj", "{E7E2618F-EB8F-41B7-AECE-8137A58C4064}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10 Archivos", "10 Archivos", "{33E6B62B-8F8C-42FC-85E8-57E6E023874B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Presentacion", "Dni para mi compañero\Presentacion\Presentacion.csproj", "{ED80606C-09C6-4EB3-8EF7-05AF2ECD5C8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Un Dni para mi compu", "Un Dni para mi compu", "{0A7A19A5-3448-42CE-BED7-F78EC17880DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +249,10 @@ Global
 		{E7E2618F-EB8F-41B7-AECE-8137A58C4064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7E2618F-EB8F-41B7-AECE-8137A58C4064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7E2618F-EB8F-41B7-AECE-8137A58C4064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED80606C-09C6-4EB3-8EF7-05AF2ECD5C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED80606C-09C6-4EB3-8EF7-05AF2ECD5C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED80606C-09C6-4EB3-8EF7-05AF2ECD5C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED80606C-09C6-4EB3-8EF7-05AF2ECD5C8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -286,6 +296,8 @@ Global
 		{7C8B53F7-BE79-45A8-81BB-65E701AF7488} = {D6ED7409-CA42-42A6-A801-543F52C04A0C}
 		{C63F6DAB-7ABB-4293-BF3D-965B135C1DEE} = {7C8B53F7-BE79-45A8-81BB-65E701AF7488}
 		{E7E2618F-EB8F-41B7-AECE-8137A58C4064} = {D6ED7409-CA42-42A6-A801-543F52C04A0C}
+		{ED80606C-09C6-4EB3-8EF7-05AF2ECD5C8E} = {0A7A19A5-3448-42CE-BED7-F78EC17880DC}
+		{0A7A19A5-3448-42CE-BED7-F78EC17880DC} = {33E6B62B-8F8C-42FC-85E8-57E6E023874B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}
