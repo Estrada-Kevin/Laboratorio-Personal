@@ -7,7 +7,7 @@
 
         static Dolar()
         {
-            cotzRespectoDolar = 1;
+            cotzRespectoDolar =1;
         }
         public Dolar(double cantidad)
         {

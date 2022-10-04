@@ -76,7 +76,6 @@ namespace Competencia_Automotores
                 Console.WriteLine("NO SE AGREGO\n");
             }
 
-
         }
     }
 }

@@ -28,6 +28,7 @@ namespace Program
 
             else
                 Console.WriteLine("NO SE AGREGO " + j4.MostrarDatos());
+
         }
     }
 }

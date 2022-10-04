@@ -50,8 +50,6 @@ namespace Colecciones_NumerosLocos2
                 Console.WriteLine(item);
             }
 
-            
-
         }
 
         public static int OrdenDescendiente(int n1, int n2)

@@ -12,7 +12,6 @@ namespace Estadistica_deportiva
         private string nombre;
         private int partidosJugados;
         private int totalGoles;
-
         private Jugador()
         {
             partidosJugados = 0;

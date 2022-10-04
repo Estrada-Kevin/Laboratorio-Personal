@@ -29,7 +29,7 @@ namespace Colecciones_NumerosLocos
             Array.Sort(array);
             Console.WriteLine("\nArray Negativo ordenado crecientemente: ");
 
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i<array.Length; i++)
             {
                 if (array[i] < 0 )
                 {

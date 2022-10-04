@@ -18,6 +18,7 @@ namespace Contador_de_palabras
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
         }
     }
 }
