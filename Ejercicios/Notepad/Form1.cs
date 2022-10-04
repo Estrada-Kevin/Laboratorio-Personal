@@ -74,6 +74,7 @@ namespace Notepad
                 }
                 
             }
+
             else
             {
                 if(saveFileDialog.ShowDialog() == DialogResult.OK)
