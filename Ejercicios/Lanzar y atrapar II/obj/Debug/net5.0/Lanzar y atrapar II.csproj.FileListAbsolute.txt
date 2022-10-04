@@ -1,0 +1,23 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\IO.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\IO.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\IO.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\IO.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\Lanzar y atrapar II.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\Lanzar y atrapar II.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\Lanzar y atrapar II.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\Lanzar y atrapar II.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\Lanzar y atrapar II.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\Lanzar y atrapar II.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\IO.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\bin\Debug\net5.0\IO.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\Lanzar y atrapar II.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\Lanzar y atrapar II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\Lanzar y atrapar II.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\Lanzar y atrapar II.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\Lanzar y atrapar II.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\Lanzar y atrapar II.csproj.CopyComplete
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\Lanzar y atrapar II.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\refint\Lanzar y atrapar II.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\Lanzar y atrapar II.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\Lanzar y atrapar II.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Lanzar y atrapar II\obj\Debug\net5.0\ref\Lanzar y atrapar II.dll

@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.IO;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Centralita_IV
 {
-    public class Centralita:IGuardar<string>
+    public class Centralita : IGuardar<string>
     {
         private List<Llamada> listaDeLlamadas;
         protected string razonSocial;
@@ -137,11 +136,17 @@ namespace Centralita_IV
             {
                 CentralitaMetodoException(c, nuevaLlamada);
                 c.AgregarLlamada(nuevaLlamada);
+                c.Guardar();
             }
-            catch (System.Exception)
+            catch (CentralitaException)
             {
-                System.Console.WriteLine($"La llamada siguiente llamada ya se encuentra en el sistema: \n{nuevaLlamada.ToString()} ");
+                Console.WriteLine($"La llamada siguiente llamada ya se encuentra en el sistema: \n{nuevaLlamada.ToString()} ");
             }
+            catch (FallaLogException)
+            {
+                Console.WriteLine("No se pudo agregar a la bitácora");
+            }
+
             return c;
         }
 
@@ -155,17 +160,29 @@ namespace Centralita_IV
 
         public bool Guardar()
         {
-            if(this is not null)
-            {
-                this.ToString();
-                return true;
-            }
-            return false;
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Llamadas de centralita.txt";
+            StreamWriter sw = new StreamWriter(path, true);
+            sw.WriteLine(DateTime.Now.ToString("F") + " - Se realizó una llamada");
+            sw.Close();
+
+            return true;
+
         }
 
         public string Leer()
         {
-            throw new NotImplementedException();
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Llamadas de centralita.txt";
+
+            string texto = string.Empty;
+            if (File.Exists(path))
+            {
+                texto = File.ReadAllText(path);
+            }
+            else
+            {
+                throw new FileNotFoundException();
+            }
+            return texto;
         }
     }
 }

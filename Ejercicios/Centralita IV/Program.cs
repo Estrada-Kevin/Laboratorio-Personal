@@ -25,6 +25,9 @@ namespace Centralita_IV
             Console.WriteLine("__________________ORDENANDO__________________");
             c.OrdenarLlamadas();
             Console.WriteLine(c.ToString());
+            Console.WriteLine("__________________BITÁCORA__________________");
+            Console.Write(c.Leer()); 
+
         }
     }
 }

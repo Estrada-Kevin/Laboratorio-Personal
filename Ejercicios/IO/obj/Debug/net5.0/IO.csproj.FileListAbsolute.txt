@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\bin\Debug\net5.0\IO.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\bin\Debug\net5.0\IO.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\bin\Debug\net5.0\IO.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\bin\Debug\net5.0\IO.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\bin\Debug\net5.0\IO.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\bin\Debug\net5.0\IO.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\obj\Debug\net5.0\IO.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\obj\Debug\net5.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\obj\Debug\net5.0\IO.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\obj\Debug\net5.0\IO.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\obj\Debug\net5.0\IO.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\obj\Debug\net5.0\IO.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\obj\Debug\net5.0\refint\IO.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\obj\Debug\net5.0\IO.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\obj\Debug\net5.0\IO.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\IO\obj\Debug\net5.0\ref\IO.dll
