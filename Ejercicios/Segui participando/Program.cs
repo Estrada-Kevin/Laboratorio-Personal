@@ -25,7 +25,6 @@ namespace Segui_participando
                 }
             }
 
-
             Console.WriteLine();
             Console.WriteLine("<--------------------------------------------------------->");
             Console.WriteLine(formulaUno.MostrarDatosCompetencia());

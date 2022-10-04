@@ -27,7 +27,6 @@ namespace Calculadora
                 sb.AppendLine("============================================");
                 sb.AppendLine();
             }
-
             Console.WriteLine(sb.ToString());
         }
     }

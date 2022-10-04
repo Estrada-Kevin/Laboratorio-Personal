@@ -22,6 +22,7 @@ namespace ConsultaIndice
                 Console.WriteLine(libro[i]);
 
             }
+
         }
     }
 }

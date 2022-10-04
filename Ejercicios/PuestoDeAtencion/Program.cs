@@ -37,6 +37,7 @@ namespace PuestoDeAtencion
             {
                 Console.WriteLine("Clientes pendientes: {0}", n1.ClientesPendientes);
             }
+
         }
     }
 }

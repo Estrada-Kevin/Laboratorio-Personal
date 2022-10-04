@@ -19,7 +19,6 @@ namespace Advertencias
 
             Console.WriteLine("----------------------------------------------");
             Console.WriteLine(objetoSobrescrito.GetHashCode());
-
             
         }
     }

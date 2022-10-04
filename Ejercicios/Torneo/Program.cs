@@ -29,6 +29,7 @@ namespace Torneo
 
             Console.WriteLine(torneoFutbol.Mostrar() + torneoFutbol.JugarPartido + torneoFutbol.JugarPartido + torneoFutbol.JugarPartido);
             Console.WriteLine(torneoBasquet.Mostrar() + torneoBasquet.JugarPartido + torneoBasquet.JugarPartido + torneoBasquet.JugarPartido);
+
         }
     }
 }

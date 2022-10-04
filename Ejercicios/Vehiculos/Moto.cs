@@ -9,7 +9,6 @@ namespace Vehiculos
     public class Moto : VehiculoTerrestre
     {
         public short cilindradas;
-
         public Moto(short cantidadRuedas, short cantidadPuertas, Colores color, short cilindradas) :base (cantidadRuedas,cantidadPuertas,color)
         {
             this.cilindradas = cilindradas;

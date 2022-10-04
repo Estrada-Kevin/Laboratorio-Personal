@@ -20,7 +20,6 @@ namespace Competencia_Automotores_III
         {
             this.cilindrada = cilindrada;
         }
-
         public override string MostrarDatos()
         {
             StringBuilder sb = new StringBuilder();

@@ -19,7 +19,6 @@ namespace Centralita_IV
         {
             get { return CalcularCosto(); }
         }
-
         public Local(string origen, float duracion, string destino, float costo) : base(duracion, destino, origen)
         {
             this.costo = costo;

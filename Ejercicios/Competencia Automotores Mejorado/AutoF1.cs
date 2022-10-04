@@ -20,7 +20,6 @@ namespace Competencia_Automotores_Mejorado
         {
 
         }
-
         public AutoF1(short numero, string escuderia, short caballosDeFuerza):this(numero, escuderia)
         {
             this.caballosDeFuerza = caballosDeFuerza;

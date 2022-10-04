@@ -10,7 +10,6 @@ namespace Estadistica_deportiva_mejorada
     {
         private int partidosJugados;
         private int totalGoles;
-
         public int PartidosJugados
         {
             get { return partidosJugados; }

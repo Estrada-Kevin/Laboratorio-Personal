@@ -43,7 +43,6 @@ namespace Cartuchera
             listaLapiz.Add(lapiz2);
             listaBoligrafo.Add(boligrafo2);
 
-
             bool auxiliar;
 
             do

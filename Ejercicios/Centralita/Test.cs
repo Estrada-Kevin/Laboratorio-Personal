@@ -14,7 +14,6 @@ namespace Centralita
             Local l3 = new Local("Lanús", 45, "San Rafael", 1.99f);
             Provincial l4 = new Provincial(Franja.Franja_3, l2);
 
-           
             c.Llamadas.Add(l1);
             Console.WriteLine(c.Mostrar());
             c.Llamadas.Add(l2);

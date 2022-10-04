@@ -23,6 +23,7 @@ namespace Contabilidad
             {
                 Console.WriteLine(item.Numero);
             }
+
         }
     }
 }

@@ -25,7 +25,6 @@ namespace Centralita_III
             Console.WriteLine("__________________ORDENANDO__________________");
             c.OrdenarLlamadas();
             Console.WriteLine(c.ToString());
-
         }
     }
 }

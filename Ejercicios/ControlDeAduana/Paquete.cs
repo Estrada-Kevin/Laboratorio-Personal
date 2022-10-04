@@ -24,7 +24,6 @@ namespace ControlDeAduana
             get { return costoEnvio * 0.35M; }
             
         }
-
         public Paquete(string codigoSeguimiento, decimal costoEnvio, string destino, string origen, double pesoKg)
         {
             this.codigoSeguimiento = codigoSeguimiento;

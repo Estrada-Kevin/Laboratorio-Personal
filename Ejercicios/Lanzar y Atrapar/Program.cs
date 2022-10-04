@@ -22,7 +22,6 @@ namespace Lanzar_y_Atrapar
                     
                 }
                 Console.WriteLine(msg);
-
             }
 
         }

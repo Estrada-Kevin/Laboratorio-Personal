@@ -44,7 +44,6 @@ namespace Control_De_Aduana_Tests
             decimal valorEsperado = 2 * 1.35M + ((IAfip)paquetePesado).Impuestos;
 
             Assert.IsTrue(paquetePesado.AplicarImpuestos()==valorEsperado);
-
         }
     }
 }

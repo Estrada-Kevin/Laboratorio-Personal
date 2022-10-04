@@ -14,7 +14,6 @@ namespace Lanzar_y_Atrapar_prueba_unitaria
             int j = 0;
 
             MiClase.DividirPorCero(i, j);
-
         }
 
         [TestMethod]
