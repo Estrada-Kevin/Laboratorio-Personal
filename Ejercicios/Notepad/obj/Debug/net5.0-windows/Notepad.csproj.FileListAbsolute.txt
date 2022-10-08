@@ -17,3 +17,6 @@ C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Notepad\obj\Debug\ne
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Notepad\obj\Debug\net5.0-windows\Notepad.genruntimeconfig.cache
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Notepad\obj\Debug\net5.0-windows\ref\Notepad.dll
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Notepad\obj\Debug\net5.0-windows\Notepad.Properties.Resources.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Notepad\bin\Debug\net5.0-windows\IO -notepad-.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Notepad\bin\Debug\net5.0-windows\IO -notepad-.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Notepad\obj\Debug\net5.0-windows\Notepad.csproj.CopyComplete

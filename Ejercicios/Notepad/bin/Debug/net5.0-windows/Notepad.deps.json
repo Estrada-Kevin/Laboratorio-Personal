@@ -10,11 +10,21 @@
         "runtime": {
           "Notepad.dll": {}
         }
+      },
+      "IO -notepad-/1.0.0": {
+        "runtime": {
+          "IO -notepad-.dll": {}
+        }
       }
     }
   },
   "libraries": {
     "Notepad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IO -notepad-/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

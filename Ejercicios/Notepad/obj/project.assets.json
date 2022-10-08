@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "IO -notepad-/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/IO -notepad-.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IO -notepad-.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "IO -notepad-/1.0.0": {
+      "type": "project",
+      "path": "../IO -notepad-/IO -notepad-.csproj",
+      "msbuildProject": "../IO -notepad-/IO -notepad-.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "IO -notepad- >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\brake\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\IO -notepad-\\IO -notepad-.csproj": {
+              "projectPath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\IO -notepad-\\IO -notepad-.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

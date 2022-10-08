@@ -125,7 +125,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cartelera", "Cartelera", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persona -Serializacion-", "Persona -Serializacion-", "{5F454AEE-6494-45B8-B4DA-8889A2154BFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persona -serializacion-", "Persona -serializacion-\Persona -serializacion-.csproj", "{F7DC1BBF-7EDD-452E-9E42-5F6603606A6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persona -serializacion-", "Persona -serializacion-\Persona -serializacion-.csproj", "{F7DC1BBF-7EDD-452E-9E42-5F6603606A6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NotePad II -IO-", "NotePad II -IO-", "{658B2069-64E0-4DF2-9A9D-ADB70A450B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO -notepad-", "IO -notepad-\IO -notepad-.csproj", "{6251DA88-F954-4FBA-8E24-E20F545C6D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad Tests", "NotePad Tests\NotePad Tests.csproj", "{732AF8C5-9F9A-4357-8697-C2AD3CBEA873}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -301,6 +307,14 @@ Global
 		{F7DC1BBF-7EDD-452E-9E42-5F6603606A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7DC1BBF-7EDD-452E-9E42-5F6603606A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7DC1BBF-7EDD-452E-9E42-5F6603606A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6251DA88-F954-4FBA-8E24-E20F545C6D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6251DA88-F954-4FBA-8E24-E20F545C6D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6251DA88-F954-4FBA-8E24-E20F545C6D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6251DA88-F954-4FBA-8E24-E20F545C6D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{732AF8C5-9F9A-4357-8697-C2AD3CBEA873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732AF8C5-9F9A-4357-8697-C2AD3CBEA873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732AF8C5-9F9A-4357-8697-C2AD3CBEA873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732AF8C5-9F9A-4357-8697-C2AD3CBEA873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -357,6 +371,9 @@ Global
 		{747A407A-2436-4711-8D8B-D7F0A921B5DC} = {D276E290-BF74-44EB-8345-C7E093BE488C}
 		{5F454AEE-6494-45B8-B4DA-8889A2154BFE} = {D276E290-BF74-44EB-8345-C7E093BE488C}
 		{F7DC1BBF-7EDD-452E-9E42-5F6603606A6F} = {5F454AEE-6494-45B8-B4DA-8889A2154BFE}
+		{658B2069-64E0-4DF2-9A9D-ADB70A450B3F} = {D276E290-BF74-44EB-8345-C7E093BE488C}
+		{6251DA88-F954-4FBA-8E24-E20F545C6D7C} = {658B2069-64E0-4DF2-9A9D-ADB70A450B3F}
+		{732AF8C5-9F9A-4357-8697-C2AD3CBEA873} = {658B2069-64E0-4DF2-9A9D-ADB70A450B3F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}
