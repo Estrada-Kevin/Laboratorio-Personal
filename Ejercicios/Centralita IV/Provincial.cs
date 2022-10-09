@@ -91,7 +91,7 @@ namespace Centralita_IV
             using (StreamWriter sw = new StreamWriter(path))
             {
                 XmlSerializer serializer = new XmlSerializer(typeof(Provincial));
-                serializer.Serialize(sw, this);
+                serializer.Serialize(sw, this); //solo sirve para un archivo porque se sobreescribe
                 return true;
             }
         }

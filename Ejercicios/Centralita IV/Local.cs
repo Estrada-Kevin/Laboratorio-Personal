@@ -69,7 +69,7 @@ namespace Centralita_IV
             using (StreamWriter sr = new StreamWriter(path))
             {
                 XmlSerializer serializer = new XmlSerializer(typeof(Local));
-                serializer.Serialize(sr, this);
+                serializer.Serialize(sr, this); //solo funciona para un archivo
                 return true;
             }
 
