@@ -169,6 +169,8 @@ namespace Centralita_IV
 
         }
 
+   
+
         public string Leer()
         {
             string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Llamadas de centralita.txt";

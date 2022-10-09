@@ -1,8 +1,10 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace Centralita_IV
 {
@@ -16,6 +18,12 @@ namespace Centralita_IV
     {
         protected Franja franjaHoraria;
 
+        public Franja FranjaHoraria
+        {
+            get { return franjaHoraria; }
+            set { franjaHoraria = value; }
+        }
+
         public string RutaDeArchivo
         {
             get;
@@ -27,6 +35,10 @@ namespace Centralita_IV
             get { return CalcularCosto(); }
         }
 
+        public Provincial()
+        {
+
+        }
         public Provincial(string origen, Franja miFranja, float duracion, string destino) : base(duracion, destino, origen)
         {
             franjaHoraria = miFranja;
@@ -75,12 +87,36 @@ namespace Centralita_IV
 
         public bool Guardar()
         {
-            throw new NotImplementedException();
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "Provincial.xml";
+            using (StreamWriter sw = new StreamWriter(path))
+            {
+                XmlSerializer serializer = new XmlSerializer(typeof(Provincial));
+                serializer.Serialize(sw, this);
+                return true;
+            }
         }
 
         public Provincial Leer()
         {
-            throw new NotImplementedException();
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "Provincial.xml";
+            try
+            {
+                if (File.Exists(path))
+                {
+                    using (StreamReader sr = new StreamReader(path))
+                    {
+                        XmlSerializer serializer = new XmlSerializer(typeof(Provincial));
+                        Provincial provincial = serializer.Deserialize(sr) as Provincial;
+
+                        return provincial;
+                    }
+                }
+            }
+            catch (InvalidCastException)
+            {
+                Console.WriteLine("error: formato invalido");
+            }
+            return null;
         }
     }
 }

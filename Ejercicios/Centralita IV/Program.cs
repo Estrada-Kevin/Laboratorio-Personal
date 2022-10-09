@@ -26,7 +26,13 @@ namespace Centralita_IV
             c.OrdenarLlamadas();
             Console.WriteLine(c.ToString());
             Console.WriteLine("__________________BITÁCORA__________________");
-            Console.Write(c.Leer()); 
+            Console.Write(c.Leer());
+            Console.WriteLine("__________________GUARDANDO ARCHIVO__________________");
+            l1.Guardar();
+            l2.Guardar();
+            Console.WriteLine("__________________lEYENDO ARCHIVO__________________");            
+            Console.WriteLine(l1.Leer());
+            Console.WriteLine(l2.Leer());
 
         }
     }

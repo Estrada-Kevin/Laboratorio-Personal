@@ -26,16 +26,23 @@ namespace Centralita_IV
         public float Duracion
         {
             get { return duracion; }
+            set { duracion = value; }
         }
         public string NroDestino
         {
             get { return nroDestino; }
+            set { nroDestino = value; }
         }
         public string NroOrigen
         {
             get { return nroOrigen; }
+            set { nroOrigen = value; }
         }
 
+        public Llamada()
+        {
+
+        }
         public Llamada(float duracion, string nroDestino, string nroOrigen)
         {
             this.duracion = duracion;

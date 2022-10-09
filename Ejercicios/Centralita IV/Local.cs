@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+using System.IO;
 using System.Text;
-using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace Centralita_IV
 {
@@ -19,11 +18,21 @@ namespace Centralita_IV
         {
             get { return CalcularCosto(); }
         }
+
+        public float Costo
+        {
+            get { return costo; }
+            set { costo = value; }
+        }
+        public Local()
+        {
+
+        }
+
         public Local(string origen, float duracion, string destino, float costo) : base(duracion, destino, origen)
         {
             this.costo = costo;
         }
-
         public Local(Llamada llamada1, float costo) : this(llamada1.NroOrigen, llamada1.Duracion, llamada1.NroDestino, costo)
         {
 
@@ -56,13 +65,38 @@ namespace Centralita_IV
 
         public bool Guardar()
         {
-            throw new NotImplementedException();
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "Local.xml";
+            using (StreamWriter sr = new StreamWriter(path))
+            {
+                XmlSerializer serializer = new XmlSerializer(typeof(Local));
+                serializer.Serialize(sr, this);
+                return true;
+            }
+
         }
 
         public Local Leer()
         {
-            throw new NotImplementedException();
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "Local.xml";
+            try
+            {
+                if(File.Exists(path))
+                {
+                    using (StreamReader sr = new StreamReader(path))
+                    {
+                        XmlSerializer serializer = new XmlSerializer(typeof(Local));
+                        Local local = serializer.Deserialize(sr) as Local;
+
+                        return local;
+                    }
+                }
+            }
+            catch (InvalidCastException)
+            {
+                Console.WriteLine("error: formato invalido");
+            }
+            return null;
         }
-        
+
     }
 }

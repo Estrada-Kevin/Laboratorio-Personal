@@ -11,5 +11,6 @@ namespace Centralita_IV
         public string RutaDeArchivo { get; set; }
         public bool Guardar();
         public T Leer();
+        
     }
 }
