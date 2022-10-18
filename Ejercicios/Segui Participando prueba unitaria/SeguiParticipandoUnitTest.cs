@@ -7,7 +7,7 @@ namespace Segui_Participando_prueba_unitaria
     public class SeguiParticipandoUnitTest
     {
         [TestMethod]
-        public void CompetenciaTest1()
+        public void ValidarSiEstaInstanciadaAlCrearObjeto()
         {
             Competencia competencia = new Competencia(5, 5, TipoCompetencia.F1);
 
@@ -16,16 +16,16 @@ namespace Segui_Participando_prueba_unitaria
 
         [TestMethod]
         [ExpectedException(typeof(CompetenciaNoDisponible))]
-        public void CompetenciaTest2()
+        public void LanzarExcepcionAlAgregarAutoEnCompetenciaMoto()
         {
-            Competencia competencia = new Competencia(5, 5, TipoCompetencia.F1);
-            MotoCross moto = new MotoCross(5, "Pastizales");
+            Competencia competencia = new Competencia(5, 5, TipoCompetencia.MotoCross);
+            AutoF1 auto = new AutoF1(5, "perez");
 
-            Competencia.lanzarCompetenciaExcepcion(competencia, moto);
+            Competencia.lanzarCompetenciaExcepcion(competencia, auto);
         }
 
         [TestMethod]
-        public void CompetenciaTest3()
+        public void NoDeberiaLanzarExcepcionAlAgregarMotoEnCompetenciaMoto()
         {
             Competencia competencia = new Competencia(5, 5, TipoCompetencia.MotoCross);
             MotoCross moto = new MotoCross(5, "Pastizales");
@@ -35,7 +35,7 @@ namespace Segui_Participando_prueba_unitaria
         }
 
         [TestMethod]
-        public void CompetenciaTest4()
+        public void ComprobarSiElAgregadoExisteEnLaLista()
         {
             Competencia competencia = new Competencia(5, 5, TipoCompetencia.MotoCross);
             MotoCross moto = new MotoCross(5, "Pastizales");
@@ -46,7 +46,7 @@ namespace Segui_Participando_prueba_unitaria
         }
 
         [TestMethod]
-        public void CompetenciaTest5()
+        public void ComprobarSiSeEliminoElElemento()
         {
             Competencia competencia = new Competencia(5, 5, TipoCompetencia.MotoCross);
             MotoCross moto = new MotoCross(5, "Pastizales");
