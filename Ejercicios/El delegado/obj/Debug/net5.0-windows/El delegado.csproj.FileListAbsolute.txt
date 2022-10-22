@@ -1,0 +1,20 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\bin\Debug\net5.0-windows\El delegado.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\bin\Debug\net5.0-windows\El delegado.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\bin\Debug\net5.0-windows\El delegado.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\bin\Debug\net5.0-windows\El delegado.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\bin\Debug\net5.0-windows\El delegado.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\bin\Debug\net5.0-windows\El delegado.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El delegado.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El_delegado.FrmMostrar.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El_delegado.FrmPrincipal.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El_delegado.FrmTestDelegados.resources
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El delegado.csproj.GenerateResource.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El delegado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El delegado.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El delegado.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El delegado.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El delegado.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\refint\El delegado.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El delegado.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\El delegado.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\El delegado\obj\Debug\net5.0-windows\ref\El delegado.dll

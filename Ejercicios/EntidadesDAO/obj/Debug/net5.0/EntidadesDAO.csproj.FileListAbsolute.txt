@@ -1,0 +1,29 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\Centralita IV.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\Centralita IV.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\Centralita IV.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\Centralita IV.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\EntidadesDAO.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\Centralita IV.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\bin\Debug\net5.0\Centralita IV.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.csproj.CopyComplete
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\refint\EntidadesDAO.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\EntidadesDAO.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\EntidadesDAO\obj\Debug\net5.0\ref\EntidadesDAO.dll
