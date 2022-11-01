@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
+
 namespace Centralita_IV
 {
     public class Centralita : IGuardar<string>
@@ -169,7 +170,6 @@ namespace Centralita_IV
 
         }
 
-   
 
         public string Leer()
         {
@@ -186,5 +186,6 @@ namespace Centralita_IV
             }
             return texto;
         }
+
     }
 }

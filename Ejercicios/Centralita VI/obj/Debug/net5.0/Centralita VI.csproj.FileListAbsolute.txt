@@ -1,0 +1,25 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita IV.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita IV.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita IV.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita IV.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita VI.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita VI.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita VI.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita VI.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita VI.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita VI.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\NameGenerator.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita IV.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\bin\Debug\net5.0\Centralita IV.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\Centralita VI.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\Centralita VI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\Centralita VI.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\Centralita VI.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\Centralita VI.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\Centralita VI.csproj.CopyComplete
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\Centralita VI.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\refint\Centralita VI.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\Centralita VI.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\Centralita VI.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita VI\obj\Debug\net5.0\ref\Centralita VI.dll

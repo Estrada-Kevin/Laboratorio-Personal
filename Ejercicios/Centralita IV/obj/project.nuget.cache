@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "u0VqR4Lw2jGgObZeYEqdMGa3WKeo2rhLpvx4WMGxBPWc4cWaJzPUVBwN8OYQInVXvb3GEZnSuXQuqoYmRWNe3Q==",
+  "dgSpecHash": "UaTI8meseM3iLzmaSP5WoIYP4QlgeCg1JWJAd+DfKE1Nxm9xZizFw3iDxfAkzgdRtmoY2TCcK+s5QUuEeil/ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita IV\\Centralita IV.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\brake\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\brake\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

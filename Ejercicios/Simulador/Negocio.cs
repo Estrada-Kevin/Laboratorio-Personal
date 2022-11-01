@@ -29,6 +29,7 @@ namespace Simulador
         public List<Task> ComenzarAtencion()
         {
             List<Task> tasks = new List<Task>();
+
             tasks.AddRange(AbrirCajas());
             tasks.Add(Task.Run(GenerarClientes));
             tasks.Add(Task.Run(AsignarCajas));

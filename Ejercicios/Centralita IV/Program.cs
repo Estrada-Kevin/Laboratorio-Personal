@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Centralita_IV
 {
@@ -8,31 +10,30 @@ namespace Centralita_IV
         {
             Centralita c = new Centralita("Fede Center");
 
+            //Local l1 = new Local("Bernal", 30, "Rosario", 2.65f);
+            //Provincial l2 = new Provincial("Morón", Franja.Franja_1, 21, "Bernal");
+            //Local l3 = new Local("Lanús", 45, "San Rafael", 1.99f);
+            //Provincial l4 = new Provincial(Franja.Franja_3, l2);
+            //Local l5 = new Local(l1, 2.65f);
+            //Provincial l6 = new Provincial("Lugano", Franja.Franja_2, 45, "Chilavert");
+            //_ = c + l1;
+            //_ = c + l2;
+            //_ = c + l3;
+            //_ = c + l4;
+            //_ = c + l5;
+            //_ = c + l6;
 
-            Local l1 = new Local("Bernal", 30, "Rosario", 2.65f);
-            Provincial l2 = new Provincial("Morón", Franja.Franja_1, 21, "Bernal");
-            Local l3 = new Local("Lanús", 45, "San Rafael", 1.99f);
-            Provincial l4 = new Provincial(Franja.Franja_3, l2);
-            Local l5 = new Local(l1, 2.65f);
-            Provincial l6 = new Provincial("Lugano", Franja.Franja_2, 45, "Chilavert");
-            _ = c + l1;
-            _ = c + l2;
-            _ = c + l3;
-            _ = c + l4;
-            _ = c + l5;
-            _ = c + l6;
-
-            Console.WriteLine("__________________ORDENANDO__________________");
-            c.OrdenarLlamadas();
-            Console.WriteLine(c.ToString());
-            Console.WriteLine("__________________BITÁCORA__________________");
-            Console.Write(c.Leer());
-            Console.WriteLine("__________________GUARDANDO ARCHIVO__________________");
-            l1.Guardar();
-            l2.Guardar();
-            Console.WriteLine("__________________lEYENDO ARCHIVO__________________");            
-            Console.WriteLine(l1.Leer());
-            Console.WriteLine(l2.Leer());
+            //Console.WriteLine("__________________ORDENANDO__________________");
+            //c.OrdenarLlamadas();
+            //Console.WriteLine(c.ToString());
+            //Console.WriteLine("__________________BITÁCORA__________________");
+            //Console.Write(c.Leer());
+            //Console.WriteLine("__________________GUARDANDO ARCHIVO__________________");
+            //l1.Guardar();
+            //l2.Guardar();
+            //Console.WriteLine("__________________lEYENDO ARCHIVO__________________");
+            //Console.WriteLine(l1.Leer());
+            //Console.WriteLine(l2.Leer());
 
         }
     }

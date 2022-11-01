@@ -6,4 +6,8 @@
     <RootNamespace>Centralita_IV</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NameGenerator" Version="2.0.4" />
+  </ItemGroup>
+
 </Project>

@@ -55,11 +55,12 @@ namespace Simulador
                 if(clientesALaEspera.Any())
                 {
                     string auxiliar = clientesALaEspera.Dequeue();
-                    delegadoClienteAtendido.Invoke(this,auxiliar);
+                    delegadoClienteAtendido.Invoke(this,auxiliar); //llama al constructor
                     Thread.Sleep(random.Next(1000, 5000));
                 }
             } while (true);
         }
 
+        
     }
 }

@@ -14,3 +14,6 @@ C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita IV\obj\De
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita IV\obj\Debug\net5.0\Centralita IV.pdb
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita IV\obj\Debug\net5.0\Centralita IV.genruntimeconfig.cache
 C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita IV\obj\Debug\net5.0\ref\Centralita IV.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita IV\bin\Debug\net5.0\NameGenerator.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita IV\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Centralita IV\obj\Debug\net5.0\Centralita IV.csproj.CopyComplete

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SrkujPWQC8uTRgQRJekfrBSIXv6YilevslHOtnYaZ8DtFChEnBSyt4slI4euMbvMDZu/NHbzxYlsqG/au19ErQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brake\\Desktop\\2022\\Laboratorio Personal\\Ejercicios\\Centralita VI\\Centralita VI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brake\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\brake\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
