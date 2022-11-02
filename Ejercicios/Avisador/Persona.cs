@@ -33,7 +33,7 @@ namespace Avisador
             sb.AppendLine(Apellido);
             if (EventoPersona != null)
             {
-                EventoPersona.Invoke(sb.ToString());
+                EventoPersona.Invoke("Cambios realizados correctamente.");
             }
             return sb.ToString();
         }
