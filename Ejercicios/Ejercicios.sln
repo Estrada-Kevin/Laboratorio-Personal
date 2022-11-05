@@ -183,7 +183,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avisador", "Avisador\Avisad
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Temporizador", "Temporizador", "{7140E38A-706F-4AFD-B46B-B86D21FA1854}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemporizadorForm", "TemporizadorForm\TemporizadorForm.csproj", "{FE05F6CA-C62F-4701-9C0F-898DC0008849}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemporizadorForm", "TemporizadorForm\TemporizadorForm.csproj", "{FE05F6CA-C62F-4701-9C0F-898DC0008849}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16 Metodos de extension", "16 Metodos de extension", "{259D5FF8-1628-4F16-B8BF-12F8FD503F42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Placa de Cronica Tv", "Placa de Cronica Tv", "{604514D0-52D9-465F-ACA7-DAA9A0D8C095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuantosDiasFaltan", "CuantosDiasFaltan\CuantosDiasFaltan.csproj", "{AD3EDA71-F7BD-4FE5-A928-947B7EA7390B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -415,6 +421,10 @@ Global
 		{FE05F6CA-C62F-4701-9C0F-898DC0008849}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE05F6CA-C62F-4701-9C0F-898DC0008849}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE05F6CA-C62F-4701-9C0F-898DC0008849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3EDA71-F7BD-4FE5-A928-947B7EA7390B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3EDA71-F7BD-4FE5-A928-947B7EA7390B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3EDA71-F7BD-4FE5-A928-947B7EA7390B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3EDA71-F7BD-4FE5-A928-947B7EA7390B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -495,6 +505,8 @@ Global
 		{ECE60530-C7C1-4E25-AC26-4CD34B435AB2} = {7B380775-976D-4790-97BC-C54B8DBB0105}
 		{7140E38A-706F-4AFD-B46B-B86D21FA1854} = {305783B7-97DE-47E4-81E1-393CD834AD58}
 		{FE05F6CA-C62F-4701-9C0F-898DC0008849} = {7140E38A-706F-4AFD-B46B-B86D21FA1854}
+		{604514D0-52D9-465F-ACA7-DAA9A0D8C095} = {259D5FF8-1628-4F16-B8BF-12F8FD503F42}
+		{AD3EDA71-F7BD-4FE5-A928-947B7EA7390B} = {604514D0-52D9-465F-ACA7-DAA9A0D8C095}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {057C8517-DBB4-4BEC-B0E1-960780CF3F64}

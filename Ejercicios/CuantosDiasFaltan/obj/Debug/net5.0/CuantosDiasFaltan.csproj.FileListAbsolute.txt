@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\bin\Debug\net5.0\CuantosDiasFaltan.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\bin\Debug\net5.0\CuantosDiasFaltan.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\bin\Debug\net5.0\CuantosDiasFaltan.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\bin\Debug\net5.0\CuantosDiasFaltan.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\bin\Debug\net5.0\CuantosDiasFaltan.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\bin\Debug\net5.0\CuantosDiasFaltan.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\obj\Debug\net5.0\CuantosDiasFaltan.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\obj\Debug\net5.0\CuantosDiasFaltan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\obj\Debug\net5.0\CuantosDiasFaltan.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\obj\Debug\net5.0\CuantosDiasFaltan.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\obj\Debug\net5.0\CuantosDiasFaltan.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\obj\Debug\net5.0\CuantosDiasFaltan.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\obj\Debug\net5.0\refint\CuantosDiasFaltan.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\obj\Debug\net5.0\CuantosDiasFaltan.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\obj\Debug\net5.0\CuantosDiasFaltan.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\CuantosDiasFaltan\obj\Debug\net5.0\ref\CuantosDiasFaltan.dll
