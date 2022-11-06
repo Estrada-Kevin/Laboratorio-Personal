@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\bin\Debug\net5.0\ContadorDigitos.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\bin\Debug\net5.0\ContadorDigitos.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\bin\Debug\net5.0\ContadorDigitos.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\bin\Debug\net5.0\ContadorDigitos.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\bin\Debug\net5.0\ContadorDigitos.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\bin\Debug\net5.0\ContadorDigitos.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\obj\Debug\net5.0\ContadorDigitos.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\obj\Debug\net5.0\ContadorDigitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\obj\Debug\net5.0\ContadorDigitos.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\obj\Debug\net5.0\ContadorDigitos.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\obj\Debug\net5.0\ContadorDigitos.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\obj\Debug\net5.0\ContadorDigitos.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\obj\Debug\net5.0\refint\ContadorDigitos.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\obj\Debug\net5.0\ContadorDigitos.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\obj\Debug\net5.0\ContadorDigitos.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorDigitos\obj\Debug\net5.0\ref\ContadorDigitos.dll

@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\bin\Debug\net5.0\Fizzbuzz.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\obj\Debug\net5.0\refint\Fizzbuzz.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\obj\Debug\net5.0\Fizzbuzz.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\Fizzbuzz\obj\Debug\net5.0\ref\Fizzbuzz.dll

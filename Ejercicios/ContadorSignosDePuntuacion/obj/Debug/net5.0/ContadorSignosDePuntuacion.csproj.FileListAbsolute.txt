@@ -1,0 +1,16 @@
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\bin\Debug\net5.0\ContadorSignosDePuntuacion.exe
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\bin\Debug\net5.0\ContadorSignosDePuntuacion.deps.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\bin\Debug\net5.0\ContadorSignosDePuntuacion.runtimeconfig.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\bin\Debug\net5.0\ContadorSignosDePuntuacion.runtimeconfig.dev.json
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\bin\Debug\net5.0\ContadorSignosDePuntuacion.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\bin\Debug\net5.0\ContadorSignosDePuntuacion.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\obj\Debug\net5.0\ContadorSignosDePuntuacion.csproj.AssemblyReference.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\obj\Debug\net5.0\ContadorSignosDePuntuacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\obj\Debug\net5.0\ContadorSignosDePuntuacion.AssemblyInfoInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\obj\Debug\net5.0\ContadorSignosDePuntuacion.AssemblyInfo.cs
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\obj\Debug\net5.0\ContadorSignosDePuntuacion.csproj.CoreCompileInputs.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\obj\Debug\net5.0\ContadorSignosDePuntuacion.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\obj\Debug\net5.0\refint\ContadorSignosDePuntuacion.dll
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\obj\Debug\net5.0\ContadorSignosDePuntuacion.pdb
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\obj\Debug\net5.0\ContadorSignosDePuntuacion.genruntimeconfig.cache
+C:\Users\brake\Desktop\2022\Laboratorio Personal\Ejercicios\ContadorSignosDePuntuacion\obj\Debug\net5.0\ref\ContadorSignosDePuntuacion.dll
